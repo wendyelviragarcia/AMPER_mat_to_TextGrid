@@ -68,7 +68,7 @@ If this file is not provided, the script will still create the TextGrid interval
 2. If your corpus or language is not included in the `corpora` folder and you want the **IPA transcription** to appear in the TextGrid, add the corresponding corpus `.txt` file to that folder.
 
 3. Open the **R script** in RStudio.
-4. (optional) Edit the path to your corpus: If you want the **orthographic transcription** (and IPA, if available) to be added to the TextGrid, make sure that the correct corpus file is selected in the script (around line 323).  
+4. (optional) Edit the path to your corpus: If you want the **orthographic transcription** (and IPA, if available) to be added to the TextGrid, make sure that the correct corpus file is selected in the script (around line 15).  
 
 Currently the script uses:
 
@@ -76,10 +76,12 @@ Currently the script uses:
 corpus_file <- "./corpora/corpus_AMPER_CAT.txt"
 ```
 
-6. Edit the path to your `.mat` files ( line 345) so that it points to the directory containing the AMPER `.mat` files in your computer. For example:
+6. Edit the path to your `.mat` files (line 18) so that it points to the directory containing the AMPER `.mat` files in your computer and where you want them to be saved. For example:
 
 ```r
-folder <- "C:/Users/mylabscomputer/Desktop/Barcelona/ja01/mat/"
+folder_input <- "C:/Users/mylabscomputer/Desktop/Barcelona/ja01/mat/"
+folder_output <- "C:/Users/mylabscomputer/Desktop/myNewTextGrids/"
+
 ```
 ## Output
 
