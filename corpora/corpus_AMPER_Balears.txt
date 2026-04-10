@@ -1,0 +1,190 @@
+code	orthography	IPA
+kwkn	Es capità no compra es passaport 	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt 
+kwpn	Es capità no ocupa sa càtedra	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə
+kwtn	Es capità no compra sa caputxa	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə
+pwkn	Sa crítica no compra es passaport	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt
+pwpn	Sa crítica no ocupa sa càtedra	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə
+pwtn	Sa crítica no compra sa caputxa	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə
+twkn	Es copista no compra es passaport	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt
+twpn	Es copista no ocupa sa càtedra	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə
+twtn	Es copista no compra sa caputxa	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə
+bwkn	Sa crítica protestant no compra es passaport	sə ˈkɾitikə pɾutəsˈtan no ˈkɔmpɾəs pəsəˈpɔrt
+bwpn	Sa crítica protestant no ocupa sa càtedra	sə ˈkɾitikə pɾutəsˈtan nou̯ˈkupə sə ˈkatəð̞ɾə
+bwtn	Sa crítica protestant no compra sa caputxa	sə ˈkɾitikə pɾutəsˈtan no ˈkɔmpɾə sə kəˈput͡ʃə
+dwkn	Es copista protestant no compra es passaport	əs kuˈpistə pɾutəsˈtan no ˈkɔmpɾəs pəsəˈpɔrt
+dwpn	Es copista protestant no ocupa sa càtedra	əs kuˈpistə pɾutəsˈtan nou̯ˈkupə sə ˈkatəð̞ɾə
+dwtn	Es copista protestant no compra sa caputxa	əs kuˈpistə pɾutəsˈtan no ˈkɔmpɾə sə kəˈput͡ʃə
+fwkn	Sa crítica tanoca no compra es passaport	sə ˈkɾitikə təˈnɔkə no ˈkɔmpɾəs pəsəˈpɔrt
+fwpn	Sa crítica tanoca no ocupa sa càtedra	sə ˈkɾitikə təˈnɔkə nou̯ˈkupə sə ˈkatəð̞ɾə
+fwtn	Sa crítica tanoca no compra sa caputxa	sə ˈkɾitikə təˈnɔkə no ˈkɔmpɾə sə kəˈput͡ʃə
+gwkn	Es capità protestant no compra es passaport	əs kəpiˈta pɾutəsˈtan no ˈkɔmpɾəs pəsəˈpɔrt
+gwpn	Es capità protestant no ocupa sa càtedra	əs kəpiˈta pɾutəsˈtan nou̯ˈkupə sə ˈkatəð̞ɾə
+gwtn	Es capità protestant no compra sa caputxa	əs kəpiˈta pɾutəsˈtan no ˈkɔmpɾə sə kəˈput͡ʃə
+jwkn	Es capità sòcrates no compra es passaport	əs kəpiˈta ˈsokɾates no ˈkɔmpɾəs pəsəˈpɔrt
+jwpn	Es capità sòcrates no ocupa sa càtedra	əs kəpiˈta ˈsokɾates nou̯ˈkupə sə ˈkatəð̞ɾə
+jwtn	Es capità sòcrates no compra sa caputxa	əs kəpiˈta ˈsokɾates no ˈkɔmpɾə sə kəˈput͡ʃə
+swkn	Es copista imbècil no compra es passaport	əs kuˈpistəi̯mˈbɛsil no ˈkɔmpɾəs pəsəˈpɔrt
+swpn	Es copista imbècil no ocupa sa càtedra	əs kuˈpistəi̯mˈbɛsil nou̯ˈkupə sə ˈkatəð̞ɾə
+swtn	Es copista imbècil no compra sa caputxa	əs kuˈpistəi̯mˈbɛsil no ˈkɔmpɾə sə kəˈput͡ʃə
+vwkn	Sa crítica pràctica no compra es passaport	sə ˈkɾitikə ˈpɾaktikə no ˈkɔmpɾəs pəsəˈpɔrt
+vwpn	Sa crítica pràctica no ocupa sa càtedra	sə ˈkɾitikə ˈpɾaktikə nou̯ˈkupə sə ˈkatəð̞ɾə
+vwtn	Sa crítica pràctica no compra sa caputxa	sə ˈkɾitikə ˈpɾaktikə no ˈkɔmpɾə sə kəˈput͡ʃə
+xwkn	Es capità imbècil no compra es passaport	əs kəpiˈtai̯mˈbɛsil no ˈkɔmpɾəs pəsəˈpɔrt
+xwpn	Es capità imbècil no ocupa sa càtedra	əs kəpiˈtai̯mˈbɛsil nou̯ˈkupə sə ˈkatəð̞ɾə
+xwtn	Es capità imbècil no compra sa caputxa	əs kəpiˈtai̯mˈbɛsil no ˈkɔmpɾə sə kəˈput͡ʃə
+zwkn	Es copista sòcrates no compra es passaport	əs kuˈpistə ˈsokɾates no ˈkɔmpɾəs pəsəˈpɔrt
+zwpn	Es copista sòcrates no ocupa sa càtedra	əs kuˈpistə ˈsokɾates nou̯ˈkupə sə ˈkatəð̞ɾə
+zwtn	Es copista sòcrates no compra sa caputxa	əs kuˈpistə ˈsokɾates no ˈkɔmpɾə sə kəˈput͡ʃə
+kwbn	Es capità no ocupa sa càtedra contrincant	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan
+kwdn	Es capità no compra sa caputxa molt brillant	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan
+kwfn	Es capità no ocupa sa càtedra completa	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə
+kwgn	Es capità no compra es passaport pintoresc	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk
+kwjn	Es capità no compra es passaport amb pràctica	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə
+kwsn	Es capità no compra sa caputxa petita	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə
+kwvn	Es capità no ocupa sa càtedra típica	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə
+kwxn	Es capità no compra es passaport propici	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi
+kwzn	Es capità no compra sa caputxa pràctica	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə
+pwbn	Sa crítica no ocupa sa càtedra contrincant	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan
+pwdn	Sa crítica no compra sa caputxa molt brillant	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan
+pwfn	Sa crítica no ocupa sa càtedra completa	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə
+pwgn	Sa crítica no compra es passaport pintoresc	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk
+pwjn	Sa crítica no compra es passaport amb pràctica	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə
+pwsn	Sa crítica no compra sa caputxa petita	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə
+pwvn	Sa crítica no ocupa sa càtedra típica	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə
+pwxn	Sa crítica no compra es passaport propici	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi
+pwzn	Sa crítica no compra sa caputxa pràctica	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə
+twbn	Es copista no ocupa sa càtedra contrincant	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan
+twdn	Es copista no compra sa caputxa molt brillant	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan
+twfn	Es copista no ocupa sa càtedra completa	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə
+twgn	Es copista no compra es passaport pintoresc	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk
+twjn	Es copista no compra es passaport amb pràctica	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə
+twsn	Es copista no compra sa caputxa petita	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə
+twvn	Es copista no ocupa sa càtedra típica	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə
+twxn	Es copista no compra es passaport propici	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi
+twzn	Es copista no compra sa caputxa pràctica	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə
+kwtm	Es capità no compra sa caputxa?	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə
+pwtm	Sa crítica no compra sa caputxa?	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə
+twtm	Es copista no compra sa caputxa?	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə
+kwpm	Es capità no ocupa sa càtedra?	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə
+pwpm	Sa crítica no ocupa sa càtedra?	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə
+twpm	Es copista no ocupa sa càtedra?	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə
+kwkm	Es capità no compra es passaport?	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt
+pwkm	Sa crítica no compra es passaport?	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt
+twkm	Es copista no compra es passaport?	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt
+bwkm	Sa crítica protestant no compra es passaport?	sə ˈkɾitikə pɾutəsˈtan no ˈkɔmpɾəs pəsəˈpɔrt
+bwpm	Sa crítica protestant no ocupa sa càtedra?	sə ˈkɾitikə pɾutəsˈtan nou̯ˈkupə sə ˈkatəð̞ɾə
+bwtm	Sa crítica protestant no compra sa caputxa?	sə ˈkɾitikə pɾutəsˈtan no ˈkɔmpɾə sə kəˈput͡ʃə
+dwkm	Es copista protestant no compra es passaport?	əs kuˈpistə pɾutəsˈtan no ˈkɔmpɾəs pəsəˈpɔrt
+dwpm	Es copista protestant no ocupa sa càtedra?	əs kuˈpistə pɾutəsˈtan nou̯ˈkupə sə ˈkatəð̞ɾə
+dwtm	Es copista protestant no compra sa caputxa?	əs kuˈpistə pɾutəsˈtan no ˈkɔmpɾə sə kəˈput͡ʃə
+fwkm	Sa crítica tanoca no compra es passaport?	sə ˈkɾitikə təˈnɔkə no ˈkɔmpɾəs pəsəˈpɔrt
+fwpm	Sa crítica tanoca no ocupa sa càtedra?	sə ˈkɾitikə təˈnɔkə nou̯ˈkupə sə ˈkatəð̞ɾə
+fwtm	Sa crítica tanoca no compra sa caputxa?	sə ˈkɾitikə təˈnɔkə no ˈkɔmpɾə sə kəˈput͡ʃə
+gwkm	Es capità protestant no compra es passaport?	əs kəpiˈta pɾutəsˈtan no ˈkɔmpɾəs pəsəˈpɔrt
+gwpm	Es capità protestant no ocupa sa càtedra?	əs kəpiˈta pɾutəsˈtan nou̯ˈkupə sə ˈkatəð̞ɾə
+gwtm	Es capità protestant no compra sa caputxa?	əs kəpiˈta pɾutəsˈtan no ˈkɔmpɾə sə kəˈput͡ʃə
+jwkm	Es capità sòcrates no compra es passaport?	əs kəpiˈta ˈsokɾates no ˈkɔmpɾəs pəsəˈpɔrt
+jwpm	Es capità sòcrates no ocupa sa càtedra?	əs kəpiˈta ˈsokɾates nou̯ˈkupə sə ˈkatəð̞ɾə
+jwtm	Es capità sòcrates no compra sa caputxa?	əs kəpiˈta ˈsokɾates no ˈkɔmpɾə sə kəˈput͡ʃə
+swkm	Es copista imbècil no compra es passaport?	əs kuˈpistəi̯mˈbɛsil no ˈkɔmpɾəs pəsəˈpɔrt
+swpm	Es copista imbècil no ocupa sa càtedra?	əs kuˈpistəi̯mˈbɛsil nou̯ˈkupə sə ˈkatəð̞ɾə
+swtm	Es copista imbècil no compra sa caputxa?	əs kuˈpistəi̯mˈbɛsil no ˈkɔmpɾə sə kəˈput͡ʃə
+vwkm	Sa crítica pràctica no compra es passaport?	sə ˈkɾitikə ˈpɾaktikə no ˈkɔmpɾəs pəsəˈpɔrt
+vwpm	Sa crítica pràctica no ocupa sa càtedra?	sə ˈkɾitikə ˈpɾaktikə nou̯ˈkupə sə ˈkatəð̞ɾə
+vwtm	Sa crítica pràctica no compra sa caputxa?	sə ˈkɾitikə ˈpɾaktikə no ˈkɔmpɾə sə kəˈput͡ʃə
+xwkm	Es capità imbècil no compra es passaport?	əs kəpiˈtai̯mˈbɛsil no ˈkɔmpɾəs pəsəˈpɔrt
+xwpm	Es capità imbècil no ocupa sa càtedra?	əs kəpiˈtai̯mˈbɛsil nou̯ˈkupə sə ˈkatəð̞ɾə
+xwtm	Es capità imbècil no compra sa caputxa?	əs kəpiˈtai̯mˈbɛsil no ˈkɔmpɾə sə kəˈput͡ʃə
+zwkm	Es copista sòcrates no compra es passaport?	əs kuˈpistə ˈsokɾates no ˈkɔmpɾəs pəsəˈpɔrt
+zwpm	Es copista sòcrates no ocupa sa càtedra?	əs kuˈpistə ˈsokɾates nou̯ˈkupə sə ˈkatəð̞ɾə
+zwtm	Es copista sòcrates no compra sa caputxa?	əs kuˈpistə ˈsokɾates no ˈkɔmpɾə sə kəˈput͡ʃə
+kwbm	Es capità no ocupa sa càtedra contrincant?	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan
+kwdm	Es capità no compra sa caputxa molt brillant?	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan
+kwfm	Es capità no ocupa sa càtedra completa?	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə
+kwgm	Es capità no compra es passaport pintoresc?	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk
+kwjm	Es capità no compra es passaport amb pràctica?	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə
+kwsm	Es capità no compra sa caputxa petita?	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə
+kwvm	Es capità no ocupa sa càtedra típica?	əs kəpiˈta nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə
+kwxm	Es capità no compra es passaport propici?	əs kəpiˈta no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi
+kwzm	Es capità no compra sa caputxa pràctica?	əs kəpiˈta no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə
+pwbm	Sa crítica no ocupa sa càtedra contrincant?	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan
+pwdm	Sa crítica no compra sa caputxa molt brillant?	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan
+pwfm	Sa crítica no ocupa sa càtedra completa?	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə
+pwgm	Sa crítica no compra es passaport pintoresc?	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk
+pwjm	Sa crítica no compra es passaport amb pràctica?	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə
+pwsm	Sa crítica no compra sa caputxa petita?	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə
+pwvm	Sa crítica no ocupa sa càtedra típica?	sə ˈkɾitikə nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə
+pwxm	Sa crítica no compra es passaport propici?	sə ˈkɾitikə no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi
+pwzm	Sa crítica no compra sa caputxa pràctica?	sə ˈkɾitikə no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə
+twbm	Es copista no ocupa sa càtedra contrincant?	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan
+twdm	Es copista no compra sa caputxa molt brillant?	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan
+twfm	Es copista no ocupa sa càtedra completa?	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə
+twgm	Es copista no compra es passaport pintoresc?	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk
+twjm	Es copista no compra es passaport amb pràctica?	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə
+twsm	Es copista no compra sa caputxa petita?	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə
+twvm	Es copista no ocupa sa càtedra típica?	əs kuˈpistə nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə
+twxm	Es copista no compra es passaport propici?	əs kuˈpistə no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi
+twzm	Es copista no compra sa caputxa pràctica?	əs kuˈpistə no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə
+kwky	Que no compra es passaport es capità?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kəpiˈta 
+kwpy	Que no ocupa sa càtedra es capità?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kəpiˈta 
+kwty	Que no compra sa caputxa es capità?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kəpiˈta 
+pwky	Que no compra es passaport sa crítica?	ke no ˈkɔmpɾəs pəsəˈpɔrt sə ˈkɾitikə
+pwpy	Que no ocupa sa càtedra sa crítica?	ke nou̯ˈkupə sə ˈkatəð̞ɾə sə ˈkɾitikə
+pwty	Que no compra sa caputxa sa crítica?	ke no ˈkɔmpɾə sə kəˈput͡ʃə sə ˈkɾitikə
+twky	Que no compra es passaport es copista?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kuˈpistə
+twpy	Que no ocupa sa càtedra es copista?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kuˈpistə
+twty	Que no compra sa caputxa es copista?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kuˈpistə
+bwky	Que no compra es passaport sa crítica protestant?	ke no ˈkɔmpɾəs pəsəˈpɔrt sə ˈkɾitikə pɾutəsˈtan
+bwpy	Que no ocupa sa càtedra sa crítica protestant?	ke nou̯ˈkupə sə ˈkatəð̞ɾə sə ˈkɾitikə pɾutəsˈtan
+bwty	Que no compra sa caputxa sa crítica protestant?	ke no ˈkɔmpɾə sə kəˈput͡ʃə sə ˈkɾitikə pɾutəsˈtan
+dwky	Que no compra es passaport es copista protestant?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kuˈpistə pɾutəsˈtan
+dwpy	Que no ocupa sa càtedra es copista protestant?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kuˈpistə pɾutəsˈtan
+dwty	Que no compra sa caputxa es copista protestant?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kuˈpistə pɾutəsˈtan
+fwky	Que no compra es passaport sa crítica tanoca?	ke no ˈkɔmpɾəs pəsəˈpɔrt sə ˈkɾitikə təˈnɔkə
+fwpy	Que no ocupa sa càtedra sa crítica tanoca?	ke nou̯ˈkupə sə ˈkatəð̞ɾə sə ˈkɾitikə təˈnɔkə
+fwty	Que no compra sa caputxa sa crítica tanoca?	ke no ˈkɔmpɾə sə kəˈput͡ʃə sə ˈkɾitikə təˈnɔkə
+gwky	Que no compra es passaport es capità protestant?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kəpiˈta pɾutəsˈtan
+gwpy	Que no ocupa sa càtedra es capità protestant?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kəpiˈta pɾutəsˈtan
+gwty	Que no compra sa caputxa es capità protestant?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kəpiˈta pɾutəsˈtan
+jwky	Que no compra es passaport es capità sòcrates?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kəpiˈta ˈsokɾates
+jwpy	Que no ocupa sa càtedra es capità sòcrates?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kəpiˈta ˈsokɾates
+jwty	Que no compra sa caputxa es capità sòcrates?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kəpiˈta ˈsokɾates
+swky	Que no compra es passaport es copista imbècil?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kuˈpistəi̯mˈbɛsil
+swpy	Que no ocupa sa càtedra es copista imbècil?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kuˈpistəi̯mˈbɛsil
+swty	Que no compra sa caputxa es copista imbècil?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kuˈpistəi̯mˈbɛsil
+vwky	Que no compra es passaport sa crítica pràctica?	ke no ˈkɔmpɾəs pəsəˈpɔrt sə ˈkɾitikə ˈpɾaktikə
+vwpy	Que no ocupa sa càtedra sa crítica pràctica?	ke nou̯ˈkupə sə ˈkatəð̞ɾə sə ˈkɾitikə ˈpɾaktikə
+vwty	Que no compra sa caputxa sa crítica pràctica?	ke no ˈkɔmpɾə sə kəˈput͡ʃə sə ˈkɾitikə ˈpɾaktikə
+xwky	Que no compra es passaport es capità imbècil?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kəpiˈtai̯mˈbɛsil
+xwpy	Que no ocupa sa càtedra es capità imbècil?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kəpiˈtai̯mˈbɛsil
+xwty	Que no compra sa caputxa es capità imbècil?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kəpiˈtai̯mˈbɛsil
+zwky	Que no compra es passaport es copista sòcrates?	ke no ˈkɔmpɾəs pəsəˈpɔrt əs kuˈpistə ˈsokɾates
+zwpy	Que no ocupa sa càtedra es copista sòcrates?	ke nou̯ˈkupə sə ˈkatəð̞ɾəl kuˈpistə ˈsokɾates
+zwty	Que no compra sa caputxa es copista sòcrates?	ke no ˈkɔmpɾə sə kəˈput͡ʃəl kuˈpistə ˈsokɾates
+kwby	Que no ocupa sa càtedra contricant es capità?	ke nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan əs kəpiˈta 
+kwdy	Que no compra sa caputxa molt brillant es capità?	ke no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan əs kəpiˈta 
+kwfy	Que no ocupa sa càtedra completa es capità?	ke nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtəs kəpiˈta 
+kwgy	Que no compra es passaport pintoresc es capità?	ke no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk əs kəpiˈta 
+kwjy	Que no compra es passaport amb pràctica es capità?	ke no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikəl kəpiˈta 
+kwsy	Que no compra sa caputxa petita es capità?	ke no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitəs kəpiˈta 
+kwvy	Que no ocupa sa càtedra tipica es capità?	ke nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikəl kəpiˈta 
+kwxy	Que no compra es passaport propici es capità?	ke no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisil kəpiˈta 
+kwzy	Que no compra sa caputxa pràctica es capità?	ke no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikəl kəpiˈta 
+pwby	Que no ocupa sa càtedra contrincant sa crítica?	ke nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan sə ˈkɾitikə
+pwdy	Que no compra sa caputxa molt brillant sa crítica?	ke no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan sə ˈkɾitikə
+pwfy	Que no ocupa sa càtedra completa sa crítica?	ke nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtə sə ˈkɾitikə
+pwgy	Que no compra es passaport pintoresc sa crítica?	ke no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk sə ˈkɾitikə
+pwjy	Que no compra es passaport amb pràctica sa crítica?	ke no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikə sə ˈkɾitikə
+pwsy	Que no compra sa caputxa petita sa crítica?	ke no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitə sə ˈkɾitikə
+pwvy	Que no ocupa sa càtedra típica sa crítica?	ke nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikə sə ˈkɾitikə
+pwxy	Que no compra es passaport propici sa crítica?	ke no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi sə ˈkɾitikə
+pwzy	Que no compra sa caputxa pràctica sa crítica?	ke no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikə sə ˈkɾitikə
+twby	Que no ocupa sa càtedra contrincant es copista?	ke nou̯ˈkupə sə ˈkatəð̞ɾə kuntɾiŋˈkan əs kuˈpistə
+twdy	Que no compra sa caputxa molt brillant es copista?	ke no ˈkɔmpɾə sə kəˈput͡ʃə mol bɾiˈʎan əs kuˈpistə
+twfy	Que no ocupa sa càtedra completa es copista?	ke nou̯ˈkupə sə ˈkatəð̞ɾə kumˈplɛtəs kuˈpistə
+twgy	Que no compra es passaport pintoresc es copista?	ke no ˈkɔmpɾəs pəsəˈpɔrt pintuˈɾɛsk əs kuˈpistə
+twjy	Que no compra es passaport amb pràctica es copista?	ke no ˈkɔmpɾəs pəsəˈpɔrt əm ˈpɾaktikəl kuˈpistə
+twsy	Que no compra sa caputxa petita es copista?	ke no ˈkɔmpɾə sə kəˈput͡ʃə pəˈtitəs kuˈpistə
+twvy	Que no ocupa sa càtedra típica es copista?	ke nou̯ˈkupə sə ˈkatəð̞ɾə ˈtipikəl kuˈpistə
+twxy	Que no compra es passaport propici es copista?	ke no ˈkɔmpɾəs pəsəˈpɔrt pɾuˈpisi əs kuˈpistə
+twzy	Que no compra sa caputxa pràctica es copista?	ke no ˈkɔmpɾə sə kəˈput͡ʃə ˈpɾaktikəl kuˈpistə

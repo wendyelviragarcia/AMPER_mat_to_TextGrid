@@ -1,0 +1,213 @@
+code	orthography	IPA
+kwkn	Lo capità no porta lo passaport	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ
+kwpn	Lo capità no ocupa la càtedra	lo kapiˈta no oˈkupa la ˈkateð̞ɾa
+kwtn	Lo capità no porta la caputxa	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa
+pwkn	La crítica no porta lo passaport	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ
+pwpn	La crítica no ocupa la càtedra	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa
+pwtn	La crítica no porta la caputxa	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa
+twkn	Lo copista no porta lo passaport	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ
+twpn	Lo copista no ocupa la càtedra	lo koˈpista no oˈkupa la ˈkateð̞ɾa
+twtn	Lo copista no porta la caputxa	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa
+bwkn	La crítica protestant no porta lo passaport	la ˈkɾitika pɾotesˈtan no ˈpɔɾta lo pasaˈpɔɾ
+bwpn	La crítica protestant no ocupa la càtedra	la ˈkɾitika pɾotesˈtan no oˈkupa la ˈkateð̞ɾa
+bwtn	La crítica protestant no porta la caputxa	la ˈkɾitika pɾotesˈtan no ˈpɔɾta la kaˈput͡ʃa
+dwkn	Lo copista protestant no porta lo passaport	lo koˈpista pɾotesˈtan no ˈpɔɾta lo pasaˈpɔɾ
+dwpn	Lo copista protestant no ocupa la càtedra	lo koˈpista pɾotesˈtan no oˈkupa la ˈkateð̞ɾa
+dwtn	Lo copista protestant no porta la caputxa	lo koˈpista pɾotesˈtan no ˈpɔɾta la kaˈput͡ʃa
+fwkn	La crítica tanoca no porta lo passaport	la ˈkɾitika taˈnɔka no ˈpɔɾta lo pasaˈpɔɾ
+fwpn	La crítica tanoca no ocupa la càtedra	la ˈkɾitika taˈnɔka no oˈkupa la ˈkateð̞ɾa
+fwtn	La crítica tanoca no porta la caputxa	la ˈkɾitika taˈnɔka no ˈpɔɾta la kaˈput͡ʃa
+gwkn	Lo capità protestant no porta lo passaport	lo kapiˈta pɾotesˈtan no ˈpɔɾta lo pasaˈpɔɾ
+gwpn	Lo capità protestant no ocupa la càtedra	lo kapiˈta pɾotesˈtan no oˈkupa la ˈkateð̞ɾa
+gwtn	Lo capità protestant no porta la caputxa	lo kapiˈta pɾotesˈtan no ˈpɔɾta la kaˈput͡ʃa
+jwkn	Lo capità sòcrates no porta lo passaport	lo kapiˈta ˈsɔkɾates no ˈpɔɾta lo pasaˈpɔɾ
+jwpn	Lo capità sòcrates no ocupa la càtedra	lo kapiˈta ˈsɔkɾates no oˈkupa la ˈkateð̞ɾa
+jwtn	Lo capità sòcrates no porta la caputxa	lo kapiˈta ˈsɔkɾates no ˈpɔɾta la kaˈput͡ʃa
+swkn	Lo copista intrèpid no porta lo passaport	lo koˈpista inˈtɾɛpit no ˈpɔɾta lo pasaˈpɔɾ
+swpn	Lo copista intrèpid no ocupa la càtedra	lo koˈpista inˈtɾɛpit no oˈkupa la ˈkateð̞ɾa
+swtn	Lo copista intrèpid no porta la caputxa	lo koˈpista inˈtɾɛpit no ˈpɔɾta la kaˈput͡ʃa
+vwkn	La crítica pràctica no porta lo passaport	la ˈkɾitika ˈpɾaktika no ˈpɔɾta lo pasaˈpɔɾ
+vwpn	La crítica pràctica no ocupa la càtedra	la ˈkɾitika ˈpɾaktika no oˈkupa la ˈkateð̞ɾa
+vwtn	La crítica pràctica no porta la caputxa	la ˈkɾitika ˈpɾaktika no ˈpɔɾta la kaˈput͡ʃa
+xwkn	Lo capità intrèpid no porta lo passaport	lo kapiˈta inˈtɾɛpit no ˈpɔɾta lo pasaˈpɔɾ
+xwpn	Lo capità intrèpid no ocupa la càtedra	lo kapiˈta inˈtɾɛpit no oˈkupa la ˈkateð̞ɾa
+xwtn	Lo capità intrèpid no porta la caputxa	lo kapiˈta inˈtɾɛpit no ˈpɔɾta la kaˈput͡ʃa
+zwkn	Lo copista sòcrates no porta lo passaport	lo koˈpista ˈsɔkɾates no ˈpɔɾta lo pasaˈpɔɾ
+zwpn	Lo copista sòcrates no ocupa la càtedra	lo koˈpista ˈsɔkɾates no oˈkupa la ˈkateð̞ɾa
+zwtn	Lo copista sòcrates no porta la caputxa	lo koˈpista ˈsɔkɾates no ˈpɔɾta la kaˈput͡ʃa
+kwbn	Lo capità no ocupa la càtedra contrincant	lo kapiˈta no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan
+kwdn	Lo capità no porta la caputxa llampegant	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan
+kwfn	Lo capità no ocupa la càtedra completa	lo kapiˈta no oˈkupa la ˈkateð̞ɾa komˈpleta
+kwgn	Lo capità no porta lo passaport pintoresc	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk
+kwjn	Lo capità no porta lo passaport amb pràctica	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika
+kwsn	Lo capità no porta la caputxa petita	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa peˈtita
+kwvn	Lo capità no ocupa la càtedra típica	lo kapiˈta no oˈkupa la ˈkateð̞ɾa ˈtipika
+kwxn	Lo capità no porta lo passaport propici	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi
+kwzn	Lo capità no porta la caputxa pràctica	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika
+pwbn	La crítica no ocupa la càtedra contrincant	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan
+pwdn	La crítica no porta la caputxa llampegant	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan
+pwfn	La crítica no ocupa la càtedra completa	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa komˈpleta
+pwgn	La crítica no porta lo passaport pintoresc	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk
+pwjn	La crítica no porta lo passaport amb pràctica	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika
+pwsn	La crítica no porta la caputxa petita	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa peˈtita
+pwvn	La crítica no ocupa la càtedra típica	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa ˈtipika
+pwxn	La crítica no porta lo passaport propici	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi
+pwzn	La crítica no porta la caputxa pràctica	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika
+twbn	Lo copista no ocupa la càtedra contrincant	lo koˈpista no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan
+twdn	Lo copista no porta la caputxa llampegant	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan
+twfn	Lo copista no ocupa la càtedra completa	lo koˈpista no oˈkupa la ˈkateð̞ɾa komˈpleta
+twgn	Lo copista no porta lo passaport pintoresc	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk
+twjn	Lo copista no porta lo passaport amb pràctica	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika
+twsn	Lo copista no porta la caputxa petita	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa peˈtita
+twvn	Lo copista no ocupa la càtedra típica	lo koˈpista no oˈkupa la ˈkateð̞ɾa ˈtipika
+twxn	Lo copista no porta lo passaport propici	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi
+twzn	Lo copista no porta la caputxa pràctica	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika
+kwtm	Lo capità no porta la caputxa?	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa
+pwtm	La crítica no porta la caputxa?	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa
+twtm	Lo copista no porta la caputxa?	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa
+kwpm	Lo capità no ocupa la càtedra?	lo kapiˈta no oˈkupa la ˈkateð̞ɾa
+pwpm	La crítica no ocupa la càtedra?	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa
+twpm	Lo copista no ocupa la càtedra?	lo koˈpista no oˈkupa la ˈkateð̞ɾa
+kwkm	Lo capità no porta lo passaport?	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ
+pwkm	La crítica no porta lo passaport?	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ
+twkm	Lo copista no porta lo passaport?	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ
+bwkm	La crítica protestant no porta lo passaport?	la ˈkɾitika pɾotesˈtan no ˈpɔɾta lo pasaˈpɔɾ
+bwpm	La crítica protestant no ocupa la càtedra?	la ˈkɾitika pɾotesˈtan no oˈkupa la ˈkateð̞ɾa
+bwtm	La crítica protestant no porta la caputxa?	la ˈkɾitika pɾotesˈtan no ˈpɔɾta la kaˈput͡ʃa
+dwkm	Lo copista protestant no porta lo passaport?	lo koˈpista pɾotesˈtan no ˈpɔɾta lo pasaˈpɔɾ
+dwpm	Lo copista protestant no ocupa la càtedra?	lo koˈpista pɾotesˈtan no oˈkupa la ˈkateð̞ɾa
+dwtm	Lo copista protestant no porta la caputxa?	lo koˈpista pɾotesˈtan no ˈpɔɾta la kaˈput͡ʃa
+fwkm	La crítica tanoca no porta lo passaport?	la ˈkɾitika taˈnɔka no ˈpɔɾta lo pasaˈpɔɾ
+fwpm	La crítica tanoca no ocupa la càtedra?	la ˈkɾitika taˈnɔka no oˈkupa la ˈkateð̞ɾa
+fwtm	La crítica tanoca no porta la caputxa?	la ˈkɾitika taˈnɔka no ˈpɔɾta la kaˈput͡ʃa
+gwkm	Lo capità protestant no porta lo passaport?	lo kapiˈta pɾotesˈtan no ˈpɔɾta lo pasaˈpɔɾ
+gwpm	Lo capità protestant no ocupa la càtedra?	lo kapiˈta pɾotesˈtan no oˈkupa la ˈkateð̞ɾa
+gwtm	Lo capità protestant no porta la caputxa?	lo kapiˈta pɾotesˈtan no ˈpɔɾta la kaˈput͡ʃa
+jwkm	Lo capità sòcrates no porta lo passaport?	lo kapiˈta ˈsɔkɾates no ˈpɔɾta lo pasaˈpɔɾ
+jwpm	Lo capità sòcrates no ocupa la càtedra?	lo kapiˈta ˈsɔkɾates no oˈkupa la ˈkateð̞ɾa
+jwtm	Lo capità sòcrates no porta la caputxa?	lo kapiˈta ˈsɔkɾates no ˈpɔɾta la kaˈput͡ʃa
+swkm	Lo copista intrèpid no porta lo passaport?	lo koˈpista inˈtɾɛpit no ˈpɔɾta lo pasaˈpɔɾ
+swpm	Lo copista intrèpid no ocupa la càtedra?	lo koˈpista inˈtɾɛpit no oˈkupa la ˈkateð̞ɾa
+swtm	Lo copista intrèpid no porta la caputxa?	lo koˈpista inˈtɾɛpit no ˈpɔɾta la kaˈput͡ʃa
+vwkm	La crítica pràctica no porta lo passaport?	la ˈkɾitika ˈpɾaktika no ˈpɔɾta lo pasaˈpɔɾ
+vwpm	La crítica pràctica no ocupa la càtedra?	la ˈkɾitika ˈpɾaktika no oˈkupa la ˈkateð̞ɾa
+vwtm	La crítica pràctica no porta la caputxa?	la ˈkɾitika ˈpɾaktika no ˈpɔɾta la kaˈput͡ʃa
+xwkm	Lo capità intrèpid no porta lo passaport?	lo kapiˈta inˈtɾɛpit no ˈpɔɾta lo pasaˈpɔɾ
+xwpm	Lo capità intrèpid no ocupa la càtedra?	lo kapiˈta inˈtɾɛpit no oˈkupa la ˈkateð̞ɾa
+xwtm	Lo capità intrèpid no porta la caputxa?	lo kapiˈta inˈtɾɛpit no ˈpɔɾta la kaˈput͡ʃa
+zwkm	Lo copista sòcrates no porta lo passaport?	lo koˈpista ˈsɔkɾates no ˈpɔɾta lo pasaˈpɔɾ
+zwpm	Lo copista sòcrates no ocupa la càtedra?	lo koˈpista ˈsɔkɾates no oˈkupa la ˈkateð̞ɾa
+zwtm	Lo copista sòcrates no porta la caputxa?	lo koˈpista ˈsɔkɾates no ˈpɔɾta la kaˈput͡ʃa
+kwbm	Lo capità no ocupa la càtedra contrincant?	lo kapiˈta no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan
+kwdm	Lo capità no porta la caputxa llampegant?	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan
+kwfm	Lo capità no ocupa la càtedra completa?	lo kapiˈta no oˈkupa la ˈkateð̞ɾa komˈpleta
+kwgm	Lo capità no porta lo passaport pintoresc?	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk
+kwjm	Lo capità no porta lo passaport amb pràctica?	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika
+kwsm	Lo capità no porta la caputxa petita?	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa peˈtita
+kwvm	Lo capità no ocupa la càtedra típica?	lo kapiˈta no oˈkupa la ˈkateð̞ɾa ˈtipika
+kwxm	Lo capità no porta lo passaport propici?	lo kapiˈta no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi
+kwzm	Lo capità no porta la caputxa pràctica?	lo kapiˈta no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika
+pwbm	La crítica no ocupa la càtedra contrincant?	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan
+pwdm	La crítica no porta la caputxa llampegant?	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan
+pwfm	La crítica no ocupa la càtedra completa?	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa komˈpleta
+pwgm	La crítica no porta lo passaport pintoresc?	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk
+pwjm	La crítica no porta lo passaport amb pràctica?	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika
+pwsm	La crítica no porta la caputxa petita?	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa peˈtita
+pwvm	La crítica no ocupa la càtedra típica?	la ˈkɾitika no oˈkupa la ˈkateð̞ɾa ˈtipika
+pwxm	La crítica no porta lo passaport propici?	la ˈkɾitika no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi
+pwzm	La crítica no porta la caputxa pràctica?	la ˈkɾitika no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika
+twbm	Lo copista no ocupa la càtedra contrincant?	lo koˈpista no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan
+twdm	Lo copista no porta la caputxa llampegant?	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan
+twfm	Lo copista no ocupa la càtedra completa?	lo koˈpista no oˈkupa la ˈkateð̞ɾa komˈpleta
+twgm	Lo copista no porta lo passaport pintoresc?	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk
+twjm	Lo copista no porta lo passaport amb pràctica?	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika
+twsm	Lo copista no porta la caputxa petita?	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa peˈtita
+twvm	Lo copista no ocupa la càtedra típica?	lo koˈpista no oˈkupa la ˈkateð̞ɾa ˈtipika
+twxm	Lo copista no porta lo passaport propici?	lo koˈpista no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi
+twzm	Lo copista no porta la caputxa pràctica?	lo koˈpista no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika
+kwky	Que no porta lo passaport lo capità?	ke no ˈpɔɾta lo pasaˈpɔɾ lo kapiˈta 
+kwpy	Que no ocupa la càtedra lo capità?	ke no oˈkupa la ˈkateð̞ɾa lo kapiˈta 
+kwty	Que no porta la caputxa lo capità?	ke no ˈpɔɾta la kaˈput͡ʃa lo kapiˈta 
+pwky	Que no porta lo passaport la crítica?	ke no ˈpɔɾta lo pasaˈpɔɾ la ˈkɾitika
+pwpy	Que no ocupa la càtedra la crítica?	ke no oˈkupa la ˈkateð̞ɾa la ˈkɾitika
+pwty	Que no porta la caputxa la crítica?	ke no ˈpɔɾta la kaˈput͡ʃa la ˈkɾitika
+twky	Que no porta lo passaport lo copista?	ke no ˈpɔɾta lo pasaˈpɔɾ lo koˈpista
+twpy	Que no ocupa la càtedra lo copista?	ke no oˈkupa la ˈkateð̞ɾa lo koˈpista
+twty	Que no porta la caputxa lo copista?	ke no ˈpɔɾta la kaˈput͡ʃa lo koˈpista
+bwky	Que no porta lo passaport la crítica protestant?	ke no ˈpɔɾta lo pasaˈpɔɾ la ˈkɾitika pɾotesˈtan
+bwpy	Que no ocupa la càtedra la crítica protestant?	ke no oˈkupa la ˈkateð̞ɾa la ˈkɾitika pɾotesˈtan
+bwty	Que no porta la caputxa la crítica protestant?	ke no ˈpɔɾta la kaˈput͡ʃa la ˈkɾitika pɾotesˈtan
+dwky	Que no porta lo passaport lo copista protestant?	ke no ˈpɔɾta lo pasaˈpɔɾ lo koˈpista pɾotesˈtan
+dwpy	Que no ocupa la càtedra lo copista protestant?	ke no oˈkupa la ˈkateð̞ɾa lo koˈpista pɾotesˈtan
+dwty	Que no porta la caputxa lo copista protestant?	ke no ˈpɔɾta la kaˈput͡ʃa lo koˈpista pɾotesˈtan
+fwky	Que no porta lo passaport la crítica tanoca?	ke no ˈpɔɾta lo pasaˈpɔɾ la ˈkɾitika taˈnɔka
+fwpy	Que no ocupa la càtedra la crítica tanoca?	ke no oˈkupa la ˈkateð̞ɾa la ˈkɾitika taˈnɔka
+fwty	Que no porta la caputxa la crítica tanoca?	ke no ˈpɔɾta la kaˈput͡ʃa la ˈkɾitika taˈnɔka
+gwky	Que no porta lo passaport lo capità protestant?	ke no ˈpɔɾta lo pasaˈpɔɾ lo kapiˈta pɾotesˈtan
+gwpy	Que no ocupa la càtedra lo capità protestant?	ke no oˈkupa la ˈkateð̞ɾa lo kapiˈta pɾotesˈtan
+gwty	Que no porta la caputxa lo capità protestant?	ke no ˈpɔɾta la kaˈput͡ʃa lo kapiˈta pɾotesˈtan
+jwky	Que no porta lo passaport lo capità sòcrates?	ke no ˈpɔɾta lo pasaˈpɔɾ lo kapiˈta ˈsɔkɾates
+jwpy	Que no ocupa la càtedra lo capità sòcrates?	ke no oˈkupa la ˈkateð̞ɾa lo kapiˈta ˈsɔkɾates
+jwty	Que no porta la caputxa lo capità sòcrates?	ke no ˈpɔɾta la kaˈput͡ʃa lo kapiˈta ˈsɔkɾates
+swky	Que no porta lo passaport lo copista intrèpid?	ke no ˈpɔɾta lo pasaˈpɔɾ lo koˈpista inˈtɾɛpit
+swpy	Que no ocupa la càtedra lo copista intrèpid?	ke no oˈkupa la ˈkateð̞ɾa lo koˈpista inˈtɾɛpit
+swty	Que no porta la caputxa lo copista intrèpid?	ke no ˈpɔɾta la kaˈput͡ʃa lo koˈpista inˈtɾɛpit
+vwky	Que no porta lo passaport la crítica pràctica?	ke no ˈpɔɾta lo pasaˈpɔɾ la ˈkɾitika ˈpɾaktika
+vwpy	Que no ocupa la càtedra la crítica pràctica?	ke no oˈkupa la ˈkateð̞ɾa la ˈkɾitika ˈpɾaktika
+vwty	Que no porta la caputxa la crítica pràctica?	ke no ˈpɔɾta la kaˈput͡ʃa la ˈkɾitika ˈpɾaktika
+xwky	Que no porta lo passaport lo capità intrèpid?	ke no ˈpɔɾta lo pasaˈpɔɾ lo kapiˈta inˈtɾɛpit
+xwpy	Que no ocupa la càtedra lo capità intrèpid?	ke no oˈkupa la ˈkateð̞ɾa lo kapiˈta inˈtɾɛpit
+xwty	Que no porta la caputxa lo capità intrèpid?	ke no ˈpɔɾta la kaˈput͡ʃa lo kapiˈta inˈtɾɛpit
+zwky	Que no porta lo passaport lo copista sòcrates?	ke no ˈpɔɾta lo pasaˈpɔɾ lo koˈpista ˈsɔkɾates
+zwpy	Que no ocupa la càtedra lo copista sòcrates?	ke no oˈkupa la ˈkateð̞ɾa lo koˈpista ˈsɔkɾates
+zwty	Que no porta la caputxa lo copista sòcrates?	ke no ˈpɔɾta la kaˈput͡ʃa lo koˈpista ˈsɔkɾates
+kwby	Que no ocupa la càtedra contricant lo capità?	ke no oˈkupa la ˈkateð̞ɾa contricant lo kapiˈta 
+kwdy	Que no porta la caputxa llampegant lo capità?	ke no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan lo kapiˈta 
+kwfy	Que no ocupa la càtedra completa lo capità?	ke no oˈkupa la ˈkateð̞ɾa komˈpleta lo kapiˈta 
+kwgy	Que no porta lo passaport pintoresc lo capità?	ke no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk lo kapiˈta 
+kwjy
+kwsy
+kwvy
+kwxy
+kwzy
+pwby
+pwdy
+pwfy
+pwgy
+pwjy
+pwsy
+pwvy
+pwxy
+pwzy
+twby
+twdy
+twfy
+twgy
+twjy
+twsy
+twvy
+twxy
+twzy
+kwkn	Que no porta lo passaport amb pràctica lo capità?	ke no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika lo kapiˈta 
+kwpn	Que no porta la caputxa petita lo capità?	ke no ˈpɔɾta la kaˈput͡ʃa peˈtita lo kapiˈta 
+kwtn	Que no ocupa la càtedra tipica lo capità?	ke no oˈkupa la ˈkateð̞ɾa tipica lo kapiˈta 
+pwkn	Que no porta lo passaport propici lo capità?	ke no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi lo kapiˈta 
+pwpn	Que no porta la caputxa pràctica lo capità?	ke no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika lo kapiˈta 
+pwtn	Que no ocupa la càtedra contrincant la crítica?	ke no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan la ˈkɾitika
+twkn	Que no porta la caputxa llampegant la crítica?	ke no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan la ˈkɾitika
+twpn	Que no ocupa la càtedra completa la crítica?	ke no oˈkupa la ˈkateð̞ɾa komˈpleta la ˈkɾitika
+twtn	Que no porta lo passaport pintoresc la crítica?	ke no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk la ˈkɾitika
+bwkn	Que no porta lo passaport amb pràctica la crítica?	ke no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika la ˈkɾitika
+bwpn	Que no porta la caputxa petita la crítica?	ke no ˈpɔɾta la kaˈput͡ʃa peˈtita la ˈkɾitika
+bwtn	Que no ocupa la càtedra típica la crítica?	ke no oˈkupa la ˈkateð̞ɾa ˈtipika la ˈkɾitika
+dwkn	Que no porta lo passaport propici la crítica?	ke no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi la ˈkɾitika
+dwpn	Que no porta la caputxa pràctica la crítica?	ke no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika la ˈkɾitika
+dwtn	Que no ocupa la càtedra contrincant lo copista?	ke no oˈkupa la ˈkateð̞ɾa kontɾiŋˈkan lo koˈpista
+fwkn	Que no porta la caputxa llampegant lo copista?	ke no ˈpɔɾta la kaˈput͡ʃa ʎampeˈgan lo koˈpista
+fwpn	Que no ocupa la càtedra completa lo copista?	ke no oˈkupa la ˈkateð̞ɾa komˈpleta lo koˈpista
+fwtn	Que no porta lo passaport pintoresc lo copista?	ke no ˈpɔɾta lo pasaˈpɔɾ pintoˈɾɛsk lo koˈpista
+gwkn	Que no porta lo passaport amb pràctica lo copista?	ke no ˈpɔɾta lo pasaˈpɔɾ amb ˈpɾaktika lo koˈpista
+gwpn	Que no porta la caputxa petita lo copista?	ke no ˈpɔɾta la kaˈput͡ʃa peˈtita lo koˈpista
+gwtn	Que no ocupa la càtedra típica lo copista?	ke no oˈkupa la ˈkateð̞ɾa ˈtipika lo koˈpista
+jwkn	Que no porta lo passaport propici lo copista?	ke no ˈpɔɾta lo pasaˈpɔɾ pɾoˈpisi lo koˈpista
+jwpn	Que no porta la caputxa pràctica lo copista?	ke no ˈpɔɾta la kaˈput͡ʃa ˈpɾaktika lo koˈpista

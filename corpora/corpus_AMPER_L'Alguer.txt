@@ -1,0 +1,191 @@
+﻿code	orthography	IPA
+pwdm	¿La crítica no polta la caputxa fascinant?	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant
+pwsm	¿La crítica no polta la caputxa petita?	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə pəˈtitə
+pwzm	¿La crítica no polta la caputxa pràtica?	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə
+pwtm	¿La crítica no polta la caputxa?	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə
+pwjm	¿La crítica no polta lu passapolt amb pràtica?	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə
+pwgm	¿La crítica no polta lu passapolt esquifós?	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt əskiˈfos
+pwxm	¿La crítica no polta lu passapolt impropi?	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt əmˈpɾopi
+pwkm	¿La crítica no polta lu passapolt?	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt
+fwtm	¿La crítica Picota no polta la caputxa?	lə ˈkɾitikə piˈkɔtə no ˈpoltə lə kəˈput͡ʃə
+fwkm	¿La crítica Picota no polta lu passapolt?	lə ˈkɾitikə piˈkɔtə no ˈpoltə lu pəsːəˈpolt
+fwpm	¿La crítica Picota rebutja la càtedra?	lə ˈkɾitikə piˈkɔtə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+vwtm	¿La crítica pràtica no polta la caputxa?	lə ˈkɾitikə ˈpɾatikə no ˈpoltə lə kəˈput͡ʃə
+vwkm	¿La crítica pràtica no polta lu passapolt?	lə ˈkɾitikə ˈpɾatikə no ˈpoltə lu pəsːəˈpolt
+vwpm	¿La crítica pràtica rebutja la càtedra?	lə ˈkɾitikə ˈpɾatikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+bwtm	¿La crítica protestant no polta la caputxa?	lə ˈkɾitikə pɾutəsˈtant no ˈpoltə lə kəˈput͡ʃə
+bwkm	¿La crítica protestant no polta lu passapolt?	lə ˈkɾitikə pɾutəsˈtant no ˈpoltə lu pəsːəˈpolt
+bwpm	¿La crítica protestant rebutja la càtedra?	lə ˈkɾitikə pɾutəsˈtant ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+pwbm	¿La crítica rebutja la càtedra astracant?	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant
+pwfm	¿La crítica rebutja la càtedra completa?	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə
+pwvm	¿La crítica rebutja la càtedra típica?	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə
+pwpm	¿La crítica rebutja la càtedra?	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+kwdm	¿Lu capità no polta la caputxa fascinant?	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant
+kwsm	¿Lu capità no polta la caputxa petita?	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə pəˈtitə
+kwzm	¿Lu capità no polta la caputxa pràtica?	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə
+kwtm	¿Lu capità no polta la caputxa?	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə
+kwjm	¿Lu capità no polta lu passapolt amb pràtica?	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə
+kwgm	¿Lu capità no polta lu passapolt esquifós?	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt əskiˈfos
+kwxm	¿Lu capità no polta lu passapolt impropi?	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt əmˈpɾopi
+kwkm	¿Lu capità no polta lu passapolt?	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt
+xwtm	¿Lu capità patxoto no polta la caputxa?	lu kəpiˈta pəˈt͡ʃotu no ˈpoltə lə kəˈput͡ʃə
+xwkm	¿Lu capità patxoto no polta lu passapolt?	lu kəpiˈta pəˈt͡ʃotu no ˈpoltə lu pəsːəˈpolt
+xwpm	¿Lu capità patxoto rebutja la càtedra?	lu kəpiˈta pəˈt͡ʃotu ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+gwtm	¿Lu capità protestant no polta la caputxa?	lu kəpiˈta pɾutəsˈtant no ˈpoltə lə kəˈput͡ʃə
+gwkm	¿Lu capità protestant no polta lu passapolt?	lu kəpiˈta pɾutəsˈtant no ˈpoltə lu pəsːəˈpolt
+gwpm	¿Lu capità protestant rebutja la càtedra?	lu kəpiˈta pɾutəsˈtant ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+kwbm	¿Lu capità rebutja la càtedra astracant?	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant
+kwfm	¿Lu capità rebutja la càtedra completa?	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə
+kwvm	¿Lu capità rebutja la càtedra típica?	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə
+kwpm	¿Lu capità rebutja la càtedra?	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+jwtm	¿Lu capità sòcrates no polta la caputxa?	lu kəpiˈta ˈsːɔkɾates no ˈpoltə lə kəˈput͡ʃə
+jwkm	¿Lu capità sòcrates no polta lu passapolt?	lu kəpiˈta ˈsːɔkɾates no ˈpoltə lu pəsːəˈpolt
+jwpm	¿Lu capità sòcrates rebutja la càtedra?	lu kəpiˈta ˈsːɔkɾates ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+twdm	¿Lu copista no polta la caputxa fascinant?	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant
+twsm	¿Lu copista no polta la caputxa petita?	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə pəˈtitə
+twzm	¿Lu copista no polta la caputxa pràtica?	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə
+twtm	¿Lu copista no polta la caputxa?	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə
+twjm	¿Lu copista no polta lu passapolt amb pràtica?	lu koˈpistə no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə
+twgm	¿Lu copista no polta lu passapolt esquifós?	lu koˈpistə no ˈpoltə lu pəsːəˈpolt əskiˈfos
+twxm	¿Lu copista no polta lu passapolt impropi?	lu koˈpistə no ˈpoltə lu pəsːəˈpolt əmˈpɾopi
+twkm	¿Lu copista no polta lu passapolt?	lu koˈpistə no ˈpoltə lu pəsːəˈpolt
+swtm	¿Lu copista patxoto no polta la caputxa?	lu koˈpistə pəˈt͡ʃotu no ˈpoltə lə kəˈput͡ʃə
+swkm	¿Lu copista patxoto no polta lu passapolt?	lu koˈpistə pəˈt͡ʃotu no ˈpoltə lu pəsːəˈpolt
+swpm	¿Lu copista patxoto rebutja la càtedra?	lu koˈpistə pəˈt͡ʃotu ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+dwtm	¿Lu copista protestant no polta la caputxa?	lu koˈpistə pɾutəsˈtant no ˈpoltə lə kəˈput͡ʃə
+dwkm	¿Lu copista protestant no polta lu passapolt?	lu koˈpistə pɾutəsˈtant no ˈpoltə lu pəsːəˈpolt
+dwpm	¿Lu copista protestant rebutja la càtedra?	lu koˈpistə pɾutəsˈtant ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+twbm	¿Lu copista rebutja la càtedra astracant?	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant
+twfm	¿Lu copista rebutja la càtedra completa?	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə
+twvm	¿Lu copista rebutja la càtedra típica?	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə
+twpm	¿Lu copista rebutja la càtedra?	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+zwtm	¿Lu copista sòcrates no polta la caputxa?	lu koˈpistə ˈsːɔkɾates no ˈpoltə lə kəˈput͡ʃə
+zwkm	¿Lu copista sòcrates no polta lu passapolt?	lu koˈpistə ˈsːɔkɾates no ˈpoltə lu pəsːəˈpolt
+zwpm	¿Lu copista sòcrates rebutja la càtedra?	lu koˈpistə ˈsːɔkɾates ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+pwtn	La crítica no polta la caputxa	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə
+pwdn	La crítica no polta la caputxa fascinant	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant
+pwsn	La crítica no polta la caputxa petita	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə pəˈtitə
+pwzn	La crítica no polta la caputxa pràtica	lə ˈkɾitikə no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə
+pwkn	La crítica no polta lu passapolt	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt
+pwjn	La crítica no polta lu passapolt amb pràtica	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə
+pwgn	La crítica no polta lu passapolt esquifós	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt əskiˈfos
+pwxn	La crítica no polta lu passapolt impropi	lə ˈkɾitikə no ˈpoltə lu pəsːəˈpolt əmˈpɾopi
+fwtn	La crítica Picota no polta la caputxa	lə ˈkɾitikə piˈkɔtə no ˈpoltə lə kəˈput͡ʃə
+fwkn	La crítica Picota no polta lu passapolt	lə ˈkɾitikə piˈkɔtə no ˈpoltə lu pəsːəˈpolt
+fwpn	La crítica Picota rebutja la càtedra	lə ˈkɾitikə piˈkɔtə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+vwtn	La crítica pràtica no polta la caputxa	lə ˈkɾitikə ˈpɾatikə no ˈpoltə lə kəˈput͡ʃə
+vwkn	La crítica pràtica no polta lu passapolt	lə ˈkɾitikə ˈpɾatikə no ˈpoltə lu pəsːəˈpolt
+vwpn	La crítica pràtica rebutja la càtedra	lə ˈkɾitikə ˈpɾatikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+bwtn	La crítica protestant no polta la caputxa	lə ˈkɾitikə pɾutəsˈtant no ˈpoltə lə kəˈput͡ʃə
+bwkn	La crítica protestant no polta lu passapolt	lə ˈkɾitikə pɾutəsˈtant no ˈpoltə lu pəsːəˈpolt
+bwpn	La crítica protestant rebutja la càtedra	lə ˈkɾitikə pɾutəsˈtant ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+pwpn	La crítica rebutja la càtedra	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+pwbn	La crítica rebutja la càtedra astracant	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant
+pwfn	La crítica rebutja la càtedra completa	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə
+pwvn	La crítica rebutja la càtedra típica	lə ˈkɾitikə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə
+kwtn	Lu capità no polta la caputxa	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə
+kwdn	Lu capità no polta la caputxa fascinant	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant
+kwsn	Lu capità no polta la caputxa petita	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə pəˈtitə
+kwzn	Lu capità no polta la caputxa pràtica	lu kəpiˈta no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə
+kwkn	Lu capità no polta lu passapolt	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt
+kwjn	Lu capità no polta lu passapolt amb pràtica	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə
+kwgn	Lu capità no polta lu passapolt esquifós	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt əskiˈfos
+kwxn	Lu capità no polta lu passapolt impropi	lu kəpiˈta no ˈpoltə lu pəsːəˈpolt əmˈpɾopi
+xwtn	Lu capità patxoto no polta la caputxa	lu kəpiˈta pəˈt͡ʃotu no ˈpoltə lə kəˈput͡ʃə
+xwkn	Lu capità patxoto no polta lu passapolt	lu kəpiˈta pəˈt͡ʃotu no ˈpoltə lu pəsːəˈpolt
+xwpn	Lu capità patxoto rebutja la càtedra	lu kəpiˈta pəˈt͡ʃotu ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+gwtn	Lu capità protestant no polta la caputxa	lu kəpiˈta pɾutəsˈtant no ˈpoltə lə kəˈput͡ʃə
+gwkn	Lu capità protestant no polta lu passapolt	lu kəpiˈta pɾutəsˈtant no ˈpoltə lu pəsːəˈpolt
+gwpn	Lu capità protestant rebutja la càtedra	lu kəpiˈta pɾutəsˈtant ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+kwpn	Lu capità rebutja la càtedra	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+kwbn	Lu capità rebutja la càtedra astracant	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant
+kwfn	Lu capità rebutja la càtedra completa	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə
+kwvn	Lu capità rebutja la càtedra típica	lu kəpiˈta ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə
+jwtn	Lu capità sòcrates no polta la caputxa	lu kəpiˈta ˈsːɔkɾates no ˈpoltə lə kəˈput͡ʃə
+jwkn	Lu capità sòcrates no polta lu passapolt	lu kəpiˈta ˈsːɔkɾates no ˈpoltə lu pəsːəˈpolt
+jwpn	Lu capità sòcrates rebutja la càtedra	lu kəpiˈta ˈsːɔkɾates ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+twtn	Lu copista no polta la caputxa	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə
+twdn	Lu copista no polta la caputxa fascinant	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant
+twsn	Lu copista no polta la caputxa petita	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə pəˈtitə
+twzn	Lu copista no polta la caputxa pràtica	lu koˈpistə no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə
+twkn	Lu copista no polta lu passapolt	lu koˈpistə no ˈpoltə lu pəsːəˈpolt
+twjn	Lu copista no polta lu passapolt amb pràtica	lu koˈpistə no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə
+twgn	Lu copista no polta lu passapolt esquifós	lu koˈpistə no ˈpoltə lu pəsːəˈpolt əskiˈfos
+twxn	Lu copista no polta lu passapolt impropi	lu koˈpistə no ˈpoltə lu pəsːəˈpolt əmˈpɾopi
+swtn	Lu copista patxoto no polta la caputxa	lu koˈpistə pəˈt͡ʃotu no ˈpoltə lə kəˈput͡ʃə
+swkn	Lu copista patxoto no polta lu passapolt	lu koˈpistə pəˈt͡ʃotu no ˈpoltə lu pəsːəˈpolt
+swpn	Lu copista patxoto rebutja la càtedra	lu koˈpistə pəˈt͡ʃotu ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+dwtn	Lu copista protestant no polta la caputxa	lu koˈpistə pɾutəsˈtant no ˈpoltə lə kəˈput͡ʃə
+dwkn	Lu copista protestant no polta lu passapolt	lu koˈpistə pɾutəsˈtant no ˈpoltə lu pəsːəˈpolt
+dwpn	Lu copista protestant rebutja la càtedra	lu koˈpistə pɾutəsˈtant ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+twpn	Lu copista rebutja la càtedra	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+twbn	Lu copista rebutja la càtedra astracant	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant
+twfn	Lu copista rebutja la càtedra completa	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə
+twvn	Lu copista rebutja la càtedra típica	lu koˈpistə ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə
+zwtn	Lu copista sòcrates no polta la caputxa	lu koˈpistə ˈsːɔkɾates no ˈpoltə lə kəˈput͡ʃə
+zwkn	Lu copista sòcrates no polta lu passapolt	lu koˈpistə ˈsːɔkɾates no ˈpoltə lu pəsːəˈpolt
+zwpn	Lu copista sòcrates rebutja la càtedra	lu koˈpistə ˈsːɔkɾates ɾəˈbut͡ʒə lə ˈkatəð̞ɾə
+pwdy	¿Que no polta la caputxa fascinant la crítica?	ke no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant lə ˈkɾitikə
+kwdy	¿Que no polta la caputxa fascinant lu capità?	ke no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant lu kəpiˈta
+twdy	¿Que no polta la caputxa fascinant lu copista?	ke no ˈpoltə lə kəˈput͡ʃə fːəʃiˈnant lu koˈpistə
+fwty	¿Que no polta la caputxa la crítica Picota?	ke no ˈpoltə lə kəˈput͡ʃə lə ˈkɾitikə piˈkɔtə
+vwty	¿Que no polta la caputxa la crítica pràtica?	ke no ˈpoltə lə kəˈput͡ʃə lə ˈkɾitikə ˈpɾatikə
+bwty	¿Que no polta la caputxa la crítica protestant?	ke no ˈpoltə lə kəˈput͡ʃə lə ˈkɾitikə pɾutəsˈtant
+pwty	¿Que no polta la caputxa la crítica?	ke no ˈpoltə lə kəˈput͡ʃə lə ˈkɾitikə
+xwty	¿Que no polta la caputxa lu capità patxoto?	ke no ˈpoltə lə kəˈput͡ʃə lu kəpiˈta pəˈt͡ʃotu
+gwty	¿Que no polta la caputxa lu capità protestant?	ke no ˈpoltə lə kəˈput͡ʃə lu kəpiˈta pɾutəsˈtant
+jwty	¿Que no polta la caputxa lu capità sòcrates?	ke no ˈpoltə lə kəˈput͡ʃə lu kəpiˈta ˈsːɔkɾates
+kwty	¿Que no polta la caputxa lu capità?	ke no ˈpoltə lə kəˈput͡ʃə lu kəpiˈta
+swty	¿Que no polta la caputxa lu copista patxoto?	ke no ˈpoltə lə kəˈput͡ʃə lu koˈpistə pəˈt͡ʃotu
+dwty	¿Que no polta la caputxa lu copista protestant?	ke no ˈpoltə lə kəˈput͡ʃə lu koˈpistə pɾutəsˈtant
+zwty	¿Que no polta la caputxa lu copista sòcrates?	ke no ˈpoltə lə kəˈput͡ʃə lu koˈpistə ˈsːɔkɾates
+twty	¿Que no polta la caputxa lu copista?	ke no ˈpoltə lə kəˈput͡ʃə lu koˈpistə
+pwsy	¿Que no polta la caputxa petita la crítica?	ke no ˈpoltə lə kəˈput͡ʃə pəˈtitə lə ˈkɾitikə
+kwsy	¿Que no polta la caputxa petita lu capità?	ke no ˈpoltə lə kəˈput͡ʃə pəˈtitə lu kəpiˈta
+twsy	¿Que no polta la caputxa petita lu copista?	ke no ˈpoltə lə kəˈput͡ʃə pəˈtitə lu koˈpistə
+pwzy	¿Que no polta la caputxa pràtica la crítica?	ke no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə lə ˈkɾitikə
+kwzy	¿Que no polta la caputxa pràtica lu capità?	ke no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə lu kəpiˈta
+twzy	¿Que no polta la caputxa pràtica lu copista?	ke no ˈpoltə lə kəˈput͡ʃə ˈpɾatikə lu koˈpistə
+pwjy	¿Que no polta lu passapolt ab pràtica la crítica?	ke no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə lə ˈkɾitikə
+kwjy	¿Que no polta lu passapolt ab pràtica lu capità?	ke no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə lu kəpiˈta
+twjy	¿Que no polta lu passapolt ab pràtica lu copista?	ke no ˈpoltə lu pəsːəˈpolt əmə ˈpɾatikə lu koˈpistə
+pwgy	¿Que no polta lu passapolt esquifós la crítica?	ke no ˈpoltə lu pəsːəˈpolt əskiˈfos lə ˈkɾitikə
+kwgy	¿Que no polta lu passapolt esquifós lu capità?	ke no ˈpoltə lu pəsːəˈpolt əskiˈfos lu kəpiˈta
+twgy	¿Que no polta lu passapolt esquifós lu copista?	ke no ˈpoltə lu pəsːəˈpolt əskiˈfos lu koˈpistə
+pwxy	¿Que no polta lu passapolt ipropi la crítica?	ke no ˈpoltə lu pəsːəˈpolt əmˈpɾopi lə ˈkɾitikə
+kwxy	¿Que no polta lu passapolt ipropi lu capità?	ke no ˈpoltə lu pəsːəˈpolt əmˈpɾopi lu kəpiˈta
+twxy	¿Que no polta lu passapolt ipropi lu copista?	ke no ˈpoltə lu pəsːəˈpolt əmˈpɾopi lu koˈpistə
+fwky	¿Que no polta lu passapolt la crítica Picota?	ke no ˈpoltə lu pəsːəˈpolt lə ˈkɾitikə piˈkɔtə
+vwky	¿Que no polta lu passapolt la crítica pràtica?	ke no ˈpoltə lu pəsːəˈpolt lə ˈkɾitikə ˈpɾatikə
+bwky	¿Que no polta lu passapolt la crítica protestant?	ke no ˈpoltə lu pəsːəˈpolt lə ˈkɾitikə pɾutəsˈtant
+pwky	¿Que no polta lu passapolt la crítica?	ke no ˈpoltə lu pəsːəˈpolt lə ˈkɾitikə
+xwky	¿Que no polta lu passapolt lu capità patxoto?	ke no ˈpoltə lu pəsːəˈpolt lu kəpiˈta pəˈt͡ʃotu
+gwky	¿Que no polta lu passapolt lu capità protestant?	ke no ˈpoltə lu pəsːəˈpolt lu kəpiˈta pɾutəsˈtant
+jwky	¿Que no polta lu passapolt lu capità sòcrates?	ke no ˈpoltə lu pəsːəˈpolt lu kəpiˈta ˈsːɔkɾates
+kwky	¿Que no polta lu passapolt lu capità?	ke no ˈpoltə lu pəsːəˈpolt lu kəpiˈta
+swky	¿Que no polta lu passapolt lu copista patxoto?	ke no ˈpoltə lu pəsːəˈpolt lu koˈpistə pəˈt͡ʃotu
+dwky	¿Que no polta lu passapolt lu copista protestant?	ke no ˈpoltə lu pəsːəˈpolt lu koˈpistə pɾutəsˈtant
+zwky	¿Que no polta lu passapolt lu copista sòcrates?	ke no ˈpoltə lu pəsːəˈpolt lu koˈpistə ˈsːɔkɾates
+twky	¿Que no polta lu passapolt lu copista?	ke no ˈpoltə lu pəsːəˈpolt lu koˈpistə
+pwby	¿Que rebutja la càtedra astracant la crítica?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant lə ˈkɾitikə
+twby	¿Que rebutja la càtedra astracant lu copista?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə stɾəˈkant lu koˈpistə
+pwfy	¿Que rebutja la càtedra copleta la crítica?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə lə ˈkɾitikə
+kwfy	¿Que rebutja la càtedra copleta lu capità?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə lu kəpiˈta
+twfy	¿Que rebutja la càtedra copleta lu copista?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kumˈpɾɛtə lu koˈpistə
+kwby	¿Que rebutja la càtedra contricant lu capità?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə kontriˈkant lu kəpiˈta
+fwpy	¿Que rebutja la càtedra la crítica Picota?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lə ˈkɾitikə piˈkɔtə
+vwpy	¿Que rebutja la càtedra la crítica pràtica?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lə ˈkɾitikə ˈpɾatikə
+bwpy	¿Que rebutja la càtedra la crítica protestant?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lə ˈkɾitikə pɾutəsˈtant
+pwpy	¿Que rebutja la càtedra la crítica?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lə ˈkɾitikə
+xwpy	¿Que rebutja la càtedra lu capità patxoto?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu kəpiˈta pəˈt͡ʃotu
+gwpy	¿Que rebutja la càtedra lu capità protestant?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu kəpiˈta pɾutəsˈtant
+jwpy	¿Que rebutja la càtedra lu capità sòcrates?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu kəpiˈta ˈsːɔkɾates
+kwpy	¿Que rebutja la càtedra lu capità?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu kəpiˈta
+swpy	¿Que rebutja la càtedra lu copista patxoto?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu koˈpistə pəˈt͡ʃotu
+dwpy	¿Que rebutja la càtedra lu copista protestant?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu koˈpistə pɾutəsˈtant
+zwpy	¿Que rebutja la càtedra lu copista sòcrates?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu koˈpistə ˈsːɔkɾates
+twpy	¿Que rebutja la càtedra lu copista?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə lu koˈpistə
+pwvy	¿Que rebutja la càtedra típica la crítica?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə lə ˈkɾitikə
+kwvy	¿Que rebutja la càtedra típica lu capità?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə lu kəpiˈta
+twvy	¿Que rebutja la càtedra típica lu copista?	ke ɾəˈbut͡ʒə lə ˈkatəð̞ɾə ˈtipikə lu koˈpistə
+

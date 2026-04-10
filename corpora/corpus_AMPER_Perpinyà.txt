@@ -1,0 +1,61 @@
+code	orthography	IPA
+kwtn	El capità portava la caputxa.	əl kəpiˈta puRˈtaβ̞ə lə kəˈput͡ʃə
+kwsm	El capità portava la caputxa petita?	əl kəpiˈta puRˈtaβ̞ə lə kəˈput͡ʃə pəˈtitə
+dwtn	El copista protestant portava la caputxa.	əl kuˈpistə pRutəsˈtan puRˈtaβ̞ə lə kəˈput͡ʃə
+kwsy	Que portava la caputxa petita el capità?	kə puRˈtaβ̞ə lə kəˈput͡ʃə pəˈtitəl kəpiˈta
+swtn	El copista catòlic portava la caputxa.	əl kuˈpistə kəˈtolik puRˈtaβ̞ə lə kəˈput͡ʃə
+kwxm	El capità portava el passaport egipci?	əl kəpiˈta puRˈtaβ̞əl pəsəˈpoR əˈʒipsi
+twdn	El copista portava la caputxa de color.	əl kuˈpistə puRˈtaβ̞ə lə kəˈput͡ʃə ðə kuˈlo
+twdy	Que portava la caputxa de color el copista?	kə puRˈtaβ̞ə lə kəˈput͡ʃə ðə kuˈ loə̯̯l kuˈpistə
+dwty	Que portava la caputxa el copista protestant?	kə puRˈtaβ̞ə lə kəˈput͡ʃəl kuˈpistə pRutəsˈtan
+kwky	Que portava el passaport el capità?	kə puRˈtaβ̞əl pəsəˈpoR əl kəpiˈta
+dwkn	El copista protestant portava el passaport.	əl kuˈpistə pRutəsˈtan puRˈtaβ̞əl pəsəˈpoR
+kwxy	Que portava el passaport egipci el capità?	kə puRˈtaβ̞əl pəsəˈpoR əˈʒipsjəl kəpiˈta
+xwkn	El capità catòlic portava el passaport.	əl kəpiˈta kəˈtolik puRˈtaβ̞əl pəsəˈpoR
+kwgy	Que portava el passaport nacional el capità?	kə puRˈtaβ̞əl pəsəˈpoR nəˈsjunal əl kəpiˈta
+kwxn	El capità portava el passaport egipci.	əl kəpiˈta puRˈtaβ̞əl pəsəˈpoR əˈʒipsi
+twdm	El copista portava la caputxa de color?	əl kuˈpistə puRˈtaβ̞ə lə kəˈput͡ʃə ðə kuˈlo
+swkn	El copista catòlic portava el passaport.	əl kuˈpistə kəˈtolik puRˈtaβ̞əl pəsəˈpoR
+twty	Que portava la caputxa el copista?	kə puRˈtaβ̞ə lə kəˈput͡ʃəl kuˈpistə
+twky	Que portava el passaport el copista?	kə puRˈtaβ̞əl pəsəˈpoR əl kuˈpistə
+kwdy	Que portava la caputxa de color el capità?	kə puRˈtaβ̞ə lə kəˈput͡ʃə ðə kuˈloə̯̯l kəpiˈta
+kwgn	El capità portava el passaport nacional.	əl kəpiˈta puRˈtaβ̞əl pəsəˈpoR nəˈsjunal
+kwkn	El capità portava el passaport.	əl kəpiˈta puRˈtaβ̞əl pəsəˈpoR
+twsm	El copista portava la caputxa petita?	əl kuˈpistə puRˈtaβ̞ə lə kəˈput͡ʃə pəˈtitə
+dwtm	El copista protestant portava la caputxa?	əl kuˈpistə pRutəsˈtan puRˈtaβ̞ə lə kəˈput͡ʃə
+twgn	El copista portava el passaport nacional.	əl kuˈpistə puRˈtaβ̞əl pəsəˈpoR nəˈsjunal
+gwtn	El capità protestant portava la caputxa.	əl kəpiˈta pRutəsˈtan puRˈtaβ̞ə lə kəˈput͡ʃə
+swky	Que portava el passaport el copista catòlic?	kə puRˈtaβ̞əl pəsəˈpoR əl kuˈpistə kəˈtolik
+kwdm	El capità portava la caputxa de color?	əl kəpiˈta puRˈtaβ̞ə lə kəˈput͡ʃə ðə kuˈlo
+dwky	Que portava el passaport el copista protestant?	kə puRˈtaβ̞əl pəsəˈpoR əl kuˈpistə pRutəsˈtan
+twgy	Que portava el passaport nacional el copista?	kə puRˈtaβ̞əl pəsəˈpoR nəˈsjunal əl kuˈpistə
+swkm	El copista catòlic portava el passaport?	əl kuˈpistə kəˈtolik puRˈtaβ̞əl pəsəˈpoR
+kwkm	El capità portava el passaport?	əl kəpiˈta puRˈtaβ̞əl pəsəˈpoR
+swty	Que portava la caputxa el copista catòlic?	kə puRˈtaβ̞ə lə kəˈput͡ʃəl kuˈpistə kəˈtolik
+xwkm	El capità catòlic portava el passaport?	əl kəpiˈta kəˈtolik puRˈtaβ̞əl pəsəˈpoR
+xwty	Que portava la caputxa el capità catòlic?	kə puRˈtaβ̞ə lə kəˈput͡ʃəl kəpiˈta kəˈtolik
+twsn	El copista portava la caputxa petita.	əl kuˈpistə puRˈtaβ̞ə lə kəˈput͡ʃə pəˈtitə
+xwtn	El capità catòlic portava la caputxa.	əl kəpiˈta kəˈtolik puRˈtaβ̞ə lə kəˈput͡ʃə
+xwtm	El capità catòlic portava la caputxa?	əl kəpiˈta kəˈtolik puRˈtaβ̞ə lə kəˈput͡ʃə
+twkn	El copista portava el passaport.	əl kuˈpistə puRˈtaβ̞əl pəsəˈpoR
+kwsn	El capità portava la caputxa petita.	əl kəpiˈta puRˈtaβ̞ə lə kəˈput͡ʃə pəˈtitə
+kwtm	El capità portava la caputxa?	əl kəpiˈta puRˈtaβ̞ə lə kəˈput͡ʃə
+gwky	Que portava el passaport el capità protestant?	kə puRˈtaβ̞əl pəsəˈpoR əl kəpiˈta pRutəsˈtan
+twxm	El copista portava el passaport egipci?	əl kuˈpistə puRˈtaβ̞əl pəsəˈpoR əˈʒipsi
+kwty	Que portava la caputxa el capità?	kə puRˈtaβ̞ə lə kəˈput͡ʃəl kəpiˈta
+twxn	El copista portava el passaport egipci.	əl kuˈpistə puRˈtaβ̞əl pəsəˈpoR əˈʒipsi
+twtn	El copista portava la caputxa.	əl kuˈpistə puRˈtaβ̞ə lə kəˈput͡ʃə
+twsy	Que portava la caputxa petita el copista?	kə puRˈtaβ̞ə lə kəˈput͡ʃə pəˈtitəl kuˈpistə
+twxy	Que portava el passaport egipci el copista?	kə puRˈtaβ̞əl pəsəˈpoR əˈʒipsjəl kuˈpistə
+gwty	Que portava la caputxa el capità protestant?	kə puRˈtaβ̞ə lə kəˈput͡ʃəl kəpiˈta pRutəsˈtan
+gwkm	El capità protestant portava el passaport?	əl kəpiˈta pRutəsˈtan puRˈtaβ̞əl pəsəˈpoR
+dwkm	El copista protestant portava el passaport?	əl kuˈpistə pRutəsˈtan puRˈtaβ̞əl pəsəˈpoR
+kwdn	El capità portava la caputxa de color.	əl kəpiˈta puRˈtaβ̞ə lə kəˈput͡ʃə ðə kuˈlo
+gwtm	El capità protestant portava la caputxa?	əl kəpiˈta pRutəsˈtan puRˈtaβ̞ə lə kəˈput͡ʃə
+twtm	El copista portava la caputxa?	əl kuˈpistə puRˈtaβ̞ə lə kəˈput͡ʃə
+xwky	Que portava el passaport el capità catòlic?	kə puRˈtaβ̞əl pəsəˈpoR əl kəpiˈta kəˈtolik
+kwgm	El capità portava el passaport nacional?	əl kəpiˈta puRˈtaβ̞əl pəsəˈpoR nəˈsjunal
+swtm	El copista catòlic portava la caputxa?	əl kuˈpistə kəˈtolik puRˈtaβ̞ə lə kəˈput͡ʃə
+gwkn	El capità protestant portava el passaport.	əl kəpiˈta pRutəsˈtan puRˈtaβ̞əl pəsəˈpoR
+twgm	El copista portava el passaport nacional?	əl kuˈpistə puRˈtaβ̞əl pəsəˈpoR nəˈsjunal
+twkm	El copista portava el passaport?	əl kuˈpistə puRˈtaβ̞əl pəsəˈpoR

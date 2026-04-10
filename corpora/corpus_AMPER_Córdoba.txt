@@ -1,0 +1,127 @@
+code	orthography	IPA
+bwki	¿La cítara magrebí se toca con obsesión?	la ˈsitaɾa maɣ ̞ɾeˈβ̞i se ˈtoka kon oseˈsjoŋ 
+bwka	La cítara magrebí se toca con obsesión.	la ˈsitaɾa maɣ ̞ɾeˈβ̞i se ˈtoka kon oseˈsjoŋ
+bwpi	¿La cítara magrebí se toca con pánico?	la ˈsitaɾa maɣ ̞ɾeˈβ̞i se ˈtoka kom ˈpaniko
+bwpa	La cítara magrebí se toca con pánico.	la ˈsitaɾa maɣ ̞ɾeˈβ̞i se ˈtoka kom ˈpaniko
+bwti	¿La cítara magrebí se toca con paciencia?	la ˈsitaɾa maɣ ̞ɾeˈβ̞i se ˈtoka kom paˈsjensja
+bwta	La cítara magrebí se toca con paciencia.	la ˈsitaɾa maɣ ̞ɾeˈβ̞i se ˈtoka kom paˈsjensja
+dwki	¿La guitarra magrebí se toca con obsesión?	la ɣ ̞iˈtara maɣ ̞ɾeˈβ̞i se ˈtoka kon oseˈsjoŋ
+dwka	La guitarra magrebí se toca con obsesión.	la ɣ ̞iˈtara maɣ ̞ɾeˈβ̞i se ˈtoka kon oseˈsjoŋ
+dwpi	¿La guitarra magrebí se toca con pánico?	la ɣ ̞iˈtara maɣ ̞ɾeˈβ̞i se ˈtoka kom ˈpaniko
+dwpa	La guitarra magrebí se toca con pánico.	la ɣ ̞iˈtara maɣ ̞ɾeˈβ̞i se ˈtoka kom ˈpaniko
+dwti	¿La guitarra magrebí se toca con paciencia?	la ɣ ̞iˈtara maɣ ̞ɾeˈβ̞i se ˈtoka kom paˈsjensja
+dwta	La guitarra magrebí se toca con paciencia.	la ɣ ̞iˈtara maɣ ̞ɾeˈβ̞i se ˈtoka kom paˈsjensja
+fwki	¿La cítara española se toca con obsesión?	la ˈsitaɾae̯p:aˈɲola se ˈtoka kon oseˈsjoŋ
+fwka	La cítara española se toca con obsesión.	la ˈsitaɾae̯p:aˈɲola se ˈtoka kon oseˈsjoŋ
+fwpi	¿La cítara española se toca con pánico?	la ˈsitaɾae̯p:aˈɲola se ˈtoka kom ˈpaniko
+fwpa	La cítara española se toca con pánico.	la ˈsitaɾae̯p:aˈɲola se ˈtoka kom ˈpaniko
+fwti	¿La cítara española se toca con paciencia?	la ˈsitaɾae̯p:aˈɲola se ˈtoka kom paˈsjensja
+fwta	La cítara española se toca con paciencia.	la ˈsitaɾae̯p:aˈɲola se ˈtoka kom paˈsjensja
+gwki	¿El saxofón español se toca con obsesión?	el sasoˈfon ep:aˈɲol se ˈtoka kon oseˈsjoŋ
+gwka	El saxofón español se toca con obsesión.	el sasoˈfon ep:aˈɲol se ˈtoka kon oseˈsjoŋ
+gwpi	¿El saxofón español se toca con pánico?	el sasoˈfon ep:aˈɲol se ˈtoka kom ˈpaniko
+gwpa	El saxofón español se toca con pánico.	el sasoˈfon ep:aˈɲol se ˈtoka kom ˈpaniko
+gwti	¿El saxofón español se toca con paciencia?	el sasoˈfon ep:aˈɲol se ˈtoka kom paˈsjensja
+gwta	El saxofón español se toca con paciencia..	el sasoˈfon ep:aˈɲol se ˈtoka kom paˈsjensja
+jwki	¿El saxofón clásico se toca con obsesión?	el sasoˈfon ˈklasiko se ˈtoka kon oseˈsjoŋ
+jwka	El saxofón clásico se toca con obsesión.	el sasoˈfoŋ ˈklasiko se ˈtoka kon oseˈsjoŋ
+jwpi	¿El saxofón clásico se toca con pánico?	el sasoˈfoŋ ˈklasiko se ˈtoka kom ˈpaniko
+jwpa	El saxofón clásico se toca con pánico.	el sasoˈfoŋ ˈklasiko se ˈtoka kom ˈpaniko
+jwti	¿El saxofón clásico se toca con paciencia?	el sasoˈfoŋ ˈklasiko se ˈtoka kom paˈsjensja
+jwta	El saxofón clásico se toca con paciencia.	el sasoˈfoŋ ˈklasiko se ˈtoka kom paˈsjensja
+kwbi	¿El saxofón se toca con pánico y con amor?	el sasoˈfon se ˈtoka kom ˈpanikoi̯ kon aˈmoɾ
+kwba	El saxofón se toca con pánico y con amor.	el sasoˈfon se ˈtoka kom ˈpanikoi̯ kon aˈmoɾ
+kwdi	¿El saxofón se toca con paciencia y con amor?	el sasoˈfon se ˈtoka kom paˈsjensjai̯ kon aˈmoɾ
+kwda	El saxofón se toca con paciencia y con amor.	el sasoˈfon se ˈtoka kom paˈsjensjai̯ kon aˈmoɾ
+kwfi	¿El saxofón se toca con pánico finito?	el sasoˈfon se ˈtoka kom ˈpaniko fiˈnito
+kwfa	El saxofón se toca con pánico finito.	el sasoˈfon se ˈtoka kom ˈpaniko fiˈnito
+kwgi	¿El saxofón se toca con obsesión y con amor?	el sasoˈfon se ˈtoka kon oseˈsjon i kon aˈmoɾ
+kwga	El saxofón se toca con obsesión y con amor.	el sasoˈfon se ˈtoka kon oseˈsjon i kon aˈmoɾ
+kwji	¿El saxofón se toca con obsesión práctica?	el sasoˈfon se ˈtoka kon oseˈsjon ˈpɾat:ika
+kwja	El saxofón se toca con obsesión práctica.	el sasoˈfon se ˈtoka kon oseˈsjon ˈpɾat:ika
+kwki	¿El saxofón se toca con obsesión?	el sasoˈfon se ˈtoka kon oseˈsjoŋ
+kwka	El saxofón se toca con obsesión.	el sasoˈfon se ˈtoka kon oseˈsjoŋ
+kwpi	¿El saxofón se toca con pánico?	el sasoˈfon se ˈtoka kom ˈpaniko
+kwpa	El saxofón se toca con pánico.	el sasoˈfon se ˈtoka kom ˈpaniko
+kwsi	¿El saxofón se toca con paciencia finita?	el sasoˈfon se ˈtoka kom paˈsjensja fiˈnita
+kwsa	El saxofón se toca con paciencia finita.	el sasoˈfon se ˈtoka kom paˈsjensja fiˈnita
+kwti	¿El saxofón se toca con paciencia?	el sasoˈfon se ˈtoka kom paˈsjensja
+kwta	El saxofón se toca con paciencia.	el sasoˈfon se ˈtoka kom paˈsjensja
+kwvi	¿El saxofón se toca con pánico ˈpɾat:iko?	el sasoˈfon se ˈtoka kom ˈpaniko ˈpɾat:iko
+kwva	El saxofón se toca con pánico ˈpɾat:iko.	el sasoˈfon se ˈtoka kom ˈpaniko ˈpɾat:iko
+kwxi	¿El saxofón se toca con obsesión finita?	el sasoˈfon se ˈtoka kon oseˈsjon fiˈnita
+kwxa	El saxofón se toca con obsesión finita.	el sasoˈfon se ˈtoka kon oseˈsjon fiˈnita
+kwzi	¿El saxofón se toca con paciencia práctica?	el sasoˈfon se ˈtoka kom paˈsjensja ˈpɾat:ika
+kwza	El saxofón se toca con paciencia práctica.	el sasoˈfon se ˈtoka kom paˈsjensja ˈpɾat:ika
+pwbi	¿La cítara se toca con pánico y con amor?	la ˈsitaɾa se ˈtoka kom ˈpanikoi̯ kon aˈmoɾ
+pwba	La cítara se toca con pánico y con amor.	la ˈsitaɾa se ˈtoka kom ˈpanikoi̯ kon aˈmoɾ
+pwdi	¿La cítara se toca con paciencia y con amor?	la ˈsitaɾa se ˈtoka kom paˈsjensjai̯ kon aˈmoɾ
+pwda	La cítara se toca con paciencia y con amor.	la ˈsitaɾa se ˈtoka kom paˈsjensjai̯ kon aˈmoɾ
+pwfi	¿La cítara se toca con pánico fiˈnito?	la ˈsitaɾa se ˈtoka kom ˈpaniko fiˈnito
+pwfa	La cítara se toca con pánico fiˈnito.	la ˈsitaɾa se ˈtoka kom ˈpaniko fiˈnito
+pwgi	¿La cítara se toca con obsesión y con amor?	la ˈsitaɾa se ˈtoka kon oseˈsjon i kon aˈmoɾ
+pwga	La cítara se toca con obsesión y con amor.	la ˈsitaɾa se ˈtoka kon oseˈsjon i kon aˈmoɾ
+pwji	¿La cítara se toca con obsesión práctica?	la ˈsitaɾa se ˈtoka kon oseˈsjon ˈpɾat:ika
+pwja	La cítara se toca con obsesión práctica.	la ˈsitaɾa se ˈtoka kon oseˈsjon ˈpɾat:ika
+pwki	¿La cítara se toca con obsesión?	la ˈsitaɾa se ˈtoka kon oseˈsjoŋ
+pwka	La cítara se toca con obsesión.	la ˈsitaɾa se ˈtoka kon oseˈsjoŋ
+pwpi	¿La cítara se toca con pánico?	la ˈsitaɾa se ˈtoka kom ˈpaniko
+pwpa	La cítara se toca con pánico.	la ˈsitaɾa se ˈtoka kom ˈpaniko
+pwsi	¿La cítara se toca con paciencia finita?	la ˈsitaɾa se ˈtoka kom paˈsjensja fiˈnita
+pwsa	La cítara se toca con paciencia finita.	la ˈsitaɾa se ˈtoka kom paˈsjensja fiˈnita
+pwti	¿La cítara se toca con paciencia?	la ˈsitaɾa se ˈtoka kom paˈsjensja
+pwta	La cítara se toca con paciencia.	la ˈsitaɾa se ˈtoka kom paˈsjensja
+pwvi	¿La cítara se toca con pánico ˈpɾat:iko?	la ˈsitaɾa se ˈtoka kom ˈpaniko ˈpɾat:iko
+pwva	La cítara se toca con pánico ˈpɾat:iko.	la ˈsitaɾa se ˈtoka kom ˈpaniko ˈpɾat:iko
+pwxi	¿La cítara se toca con obsesión finita?	la ˈsitaɾa se ˈtoka kon oseˈsjon fiˈnita
+pwxa	La cítara se toca con obsesión finita.	la ˈsitaɾa se ˈtoka kon oseˈsjon fiˈnita
+pwzi	¿La cítara se toca con paciencia práctica?	la ˈsitaɾa se ˈtoka kom paˈsjensja ˈpɾat:ika
+pwza	La cítara se toca con paciencia práctica.	la ˈsitaɾa se ˈtoka kom paˈsjensja ˈpɾat:ika
+swki	¿La guitarra española se toca con obsesión?	la ɣ ̞iˈtarae̯p:aˈɲola se ˈtoka kon oseˈsjoŋ
+swka	La guitarra española se toca con obsesión.	la ɣ ̞iˈtarae̯p:aˈɲola se ˈtoka kon oseˈsjoŋ
+swpi	¿La guitarra española se toca con pánico?	la ɣ ̞iˈtarae̯p:aˈɲola se ˈtoka kom ˈpaniko
+swpa	La guitarra española se toca con pánico.	la ɣ ̞iˈtarae̯p:aˈɲola se ˈtoka kom ˈpaniko
+swti	¿La guitarra española se toca con paciencia?	la ɣ ̞iˈtarae̯p:aˈɲola se ˈtoka kom paˈsjensja
+swta	La guitarra española se toca con paciencia.	la ɣ ̞iˈtarae̯p:aˈɲola se ˈtoka kom paˈsjensja
+twbi	¿La guitarra se toca con pánico y con amor?	la ɣ ̞iˈtara se ˈtoka kom ˈpanikoi̯ kon aˈmoɾ
+twba	La guitarra se toca con pánico y con amor.	la ɣ ̞iˈtara se ˈtoka kom ˈpanikoi̯ kon aˈmoɾ
+twdi	¿La guitarra se toca con paciencia y con amor?	la ɣ ̞iˈtara se ˈtoka kom paˈsjensjai̯ kon aˈmoɾ
+twda	La guitarra se toca con paciencia y con amor.	la ɣ ̞iˈtara se ˈtoka kom paˈsjensjai̯ kon aˈmoɾ
+twfi	¿La guitarra se toca con pánico fiˈnito?	la ɣ ̞iˈtara se ˈtoka kom ˈpaniko fiˈnito
+twfa	La guitarra se toca con pánico fiˈnito.	la ɣ ̞iˈtara se ˈtoka kom ˈpaniko fiˈnito
+twgi	¿La guitarra se toca con obsesión y con amor?	la ɣ ̞iˈtara se ˈtoka kon oseˈsjon i kon aˈmoɾ
+twga	La guitarra se toca con obsesión y con amor.	la ɣ ̞iˈtara se ˈtoka kon oseˈsjon i kon aˈmoɾ
+twji	¿La guitarra se toca con obsesión práctica?	la ɣ ̞iˈtara se ˈtoka kon oseˈsjon ˈpɾat:ika
+twja	La guitarra se toca con obsesión práctica.	la ɣ ̞iˈtara se ˈtoka kon oseˈsjon ˈpɾat:ika
+twki	¿La guitarra se toca con obsesión?	la ɣ ̞iˈtara se ˈtoka kon oseˈsjoŋ
+twka	La guitarra se toca con obsesión.	la ɣ ̞iˈtara se ˈtoka kon oseˈsjoŋ
+twpi	¿La guitarra se toca con pánico?	la ɣ ̞iˈtara se ˈtoka kom ˈpaniko
+twpa	La guitarra se toca con pánico.	la ɣ ̞iˈtara se ˈtoka kom ˈpaniko
+twsi	¿La guitarra se toca con paciencia finita?	la ɣ ̞iˈtara se ˈtoka kom paˈsjensja fiˈnita
+twsa	La guitarra se toca con paciencia finita.	la ɣ ̞iˈtara se ˈtoka kom paˈsjensja fiˈnita
+twti	¿La guitarra se toca con paciencia?	la ɣ ̞iˈtara se ˈtoka kom paˈsjensja
+twta	La guitarra se toca con paciencia.	la ɣ ̞iˈtara se ˈtoka kom paˈsjensja
+twvi	¿La guitarra se toca con pánico ˈpɾat:iko?	la ɣ ̞iˈtara se ˈtoka kom ˈpaniko ˈpɾat:iko
+twva	La guitarra se toca con pánico ˈpɾat:iko.	la ɣ ̞iˈtara se ˈtoka kom ˈpaniko ˈpɾat:iko
+twxi	¿La guitarra se toca con obsesión finita?	la ɣ ̞iˈtara se ˈtoka kon oseˈsjon fiˈnita
+twxa	La guitarra se toca con obsesión finita.	la ɣ ̞iˈtara se ˈtoka kon oseˈsjon fiˈnita
+twzi	¿La guitarra se toca con paciencia práctica?	la ɣ ̞iˈtara se ˈtoka kom paˈsjensja ˈpɾat:ika
+twza	La guitarra se toca con paciencia práctica.	la ɣ ̞iˈtara se ˈtoka kom paˈsjensja ˈpɾat:ika
+vwki	¿La cítara clásica se toca con obsesión?	la ˈsitaɾa ˈklasika se ˈtoka kon oseˈsjoŋ
+vwka	La cítara clásica se toca con obsesión.	la ˈsitaɾa ˈklasika se ˈtoka kon oseˈsjoŋ
+vwpi	¿La cítara clásica se toca con pánico?	la ˈsitaɾa ˈklasika se ˈtoka kom ˈpaniko
+vwpa	La cítara clásica se toca con pánico.	la ˈsitaɾa ˈklasika se ˈtoka kom ˈpaniko
+vwti	¿La cítara clásica se toca con paciencia?	la ˈsitaɾa ˈklasika se ˈtoka kom paˈsjensja
+vwta	La cítara clásica se toca con paciencia.	la ˈsitaɾa ˈklasika se ˈtoka kom paˈsjensja
+xwki	¿El saxofón italiano se toca con obsesión?	el sasoˈfon itaˈljano se ˈtoka kon oseˈsjoŋ
+xwka	El saxofón italiano se toca con obsesión.	el sasoˈfon itaˈljano se ˈtoka kon oseˈsjoŋ
+xwpi	¿El saxofón italiano se toca con pánico?	el sasoˈfon itaˈljano se ˈtoka kom ˈpaniko
+xwpa	El saxofón italiano se toca con pánico.	el sasoˈfon itaˈljano se ˈtoka kom ˈpaniko
+xwti	¿El saxofón italiano se toca con paciencia?	el sasoˈfon itaˈljano se ˈtoka kom paˈsjensja
+xwta	El saxofón italiano se toca con paciencia.	el sasoˈfon itaˈljano se ˈtoka kom paˈsjensja
+zwki	¿La guitarra clásica se toca con obsesión?	la ɣ ̞iˈtara ˈklasika se ˈtoka kon oseˈsjoŋ
+zwka	La guitarra clásica se toca con obsesión.	la ɣ ̞iˈtara ˈklasika se ˈtoka kon oseˈsjoŋ
+zwpi	¿La guitarra clásica se toca con pánico?	la ɣ ̞iˈtara ˈklasika se ˈtoka kom ˈpaniko
+zwpa	La guitarra clásica se toca con pánico.	la ɣ ̞iˈtara ˈklasika se ˈtoka kom ˈpaniko
+zwti	¿La guitarra clásica se toca con paciencia?	la ɣ ̞iˈtara ˈklasika se ˈtoka kom paˈsjensja
+zwta	La guitarra clásica se toca con paciencia.	la ɣ ̞iˈtara ˈklasika se ˈtoka kom paˈsjensja

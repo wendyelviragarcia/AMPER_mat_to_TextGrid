@@ -3,114 +3,81 @@ library(rPraat)
 library(stringr)
 
 
-#create_textgrid_from_mat("xp01kwka1.mat", dict)
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
 
-extract_vowel_clusters <- function(ipa){
+##################
+#   
+#     VARIABLES PER INDICAR ON TENS ELS ARXIUS I ON VOLS GUARDAR
+#
+############################
+
+# if you do not have your corpora "la bambina...", leave this blannk and you will get a TextGRid with C V C V C V
+corpus_file <- "./corpora/corpus_AMPER_L'Alguer.txt"
+
+#write here the path to your .mat files
+folder_input <- "T:/AMPER/AMPERCAT Arxius ordenats/L'Alguer/L'Alguer home/Amper català alguer home/ficherosmat"
+
+#write here the path to the folder where you want to save your files
+folder_output <- "T:/AMPER-catala-corpus-Praat/annotacions"
+
+
+
+
+##################
+#### comença l'script a partir d'aquí no has de tocar res.
+
+
+
+extract_vowel_clusters <- function(ipa) {
   
-  chars <- strsplit(ipa, "")[[1]]
-  chars <- chars[chars != " "]
+  ipa <- gsub("\\s+", "", ipa)
   
-  vowels <- c("a","e","i","o","u","ɛ","ɔ","ɪ","ʊ","ə","ɐ")
-  diacritics <- "[\\u0300-\\u036F]"
+  vowels <- "aeiouɛɔɪʊəɐi̯u̯"  
+  # Una o més vocals seguides, cadascuna amb possibles diacrítics
+  vowel_unit <- paste0("[", vowels, "]\\p{M}*")
+  vowel_cluster <- paste0("(", vowel_unit, ")+")
   
-  res <- c()
-  current <- ""
-  stressed <- FALSE
+  # Estrès opcional només al principi del clúster
+  pattern <- paste0("ˈ?", vowel_cluster)
   
-  i <- 1
+  matches <- gregexpr(pattern, ipa, perl = TRUE)
+  res <- regmatches(ipa, matches)[[1]]
   
-  while(i <= length(chars)){
-    
-    ch <- chars[i]
-    
-    if(ch == "ˈ"){
-      stressed <- TRUE
-      i <- i + 1
-      next
-    }
-    
-    if(ch %in% vowels){
-      
-      if(current == ""){
-        if(stressed){
-          current <- "ˈ"
-          stressed <- FALSE
-        }
-      }
-      
-      current <- paste0(current, ch)
-      
-      j <- i + 1
-      
-      while(j <= length(chars) && grepl(diacritics, chars[j])){
-        current <- paste0(current, chars[j])
-        j <- j + 1
-      }
-      
-      i <- j
-      next
-    }
-    
-    if(nchar(current) > 0){
-      res <- c(res, current)
-      current <- ""
-    }
-    
-    i <- i + 1
-  }
-  
-  if(nchar(current) > 0)
-    res <- c(res, current)
-  
-  res
+  res[res != ""]
 }
 
-extract_consonant_clusters <- function(ipa){
+
+
+extract_consonant_clusters <- function(ipa) {
   
-  chars <- strsplit(ipa, "")[[1]]
-  chars <- chars[chars != " "]          # quitar espacios
-  chars <- chars[!chars %in% c("ˈ","ˌ")] # quitar acentos
-  vowels <- c("a","e","i","o","u","ɛ","ɔ","ɪ","ʊ","ə","ɐ")
+  ipa <- gsub("\\s+", "", ipa)
   
-  diacritics <- "[\\u0300-\\u036F]"
+  vowels <- "aeiouɛɔɪʊəɐi̯u̯"  
   
-  res <- c()
-  current <- ""
+  # unitat consonàntica amb diacrítics
+  consonant_unit <- paste0("[^", vowels, "]", "\\p{M}*")
+  #marques_accent= "ˈˈˌ"
   
-  i <- 1
+  # clúster = una o més consonants seguides
+  pattern <- paste0("(", consonant_unit, ")+")
   
-  while(i <= length(chars)){
-    ch <- chars[i]
-    # añadir diacríticos al símbolo anterior
-    if(grepl(diacritics, ch)){
-      current <- paste0(current, ch)
-      i <- i + 1
-      next
-    }
-    
-    if(ch %in% vowels){
-      if(nchar(current) > 0){
-        res <- c(res, current)
-        current <- ""
-      }
-      
-    } else {
-      current <- paste0(current, ch)
-    }
-    
-    i <- i + 1
-  }
   
-  if(nchar(current) > 0)
-    res <- c(res, current)
-  res
+  matches <- gregexpr(pattern, ipa, perl = TRUE)
+  res <- regmatches(ipa, matches)[[1]]
+  
+  res[res != ""]
 }
 
-create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs = 16000) {
+
+
+create_textgrid_from_mat <- function(myfile, folder_output, dict = NULL, align_text = FALSE,  fs = 16000) {
   #myfile = "wh01kwka1.mat"
   data <- readMat(myfile)
   df <- as.data.frame(data$salida)
   rm(data)
+  
+  
+  vowels <- c("a","e","i","o","u","ɛ","ɔ","ɪ","ʊ","ə","ɐ" )
   
   colnames(df) <- c("F01","F02","F03","dur",
                     "I1","I2","I3",
@@ -140,11 +107,26 @@ create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs
   #creo el textgrid con V para las vocales
   for(i in seq_len(nrow(df))) {
     
+    tStart <- df$start_time[i]
+    tEnd   <- df$end_time[i]
+    
+    if (tStart >= tEnd) {
+      warning(
+        paste0(
+          "MAT FILE IS WRONG: Skipping interval in file: ", myfile,
+          " | row: ", i,
+          " | tStart = ", tStart,
+          " | tEnd = ", tEnd
+        )
+      )
+      next
+    }
+    
     tg <- tg.insertInterval(
       tg,
       tierInd = 2,
-      tStart = df$start_time[i],
-      tEnd   = df$end_time[i],
+      tStart = tStart,
+      tEnd   = tEnd,
       label  = "V"
     )
   }
@@ -173,7 +155,6 @@ create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs
         tEnd   = df$end_time[i],
         label  = code
       ) 
-    
   }
   
   
@@ -181,9 +162,8 @@ create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs
   if(align_text){
     ipa <- dictIPA[code]
     ipa[is.na(ipa)] <- ""
-    vseq <- extract_vowel_clusters(ipa)
-    vowels <- c("a","e","i","o","u")
     
+    vseq <- extract_vowel_clusters(ipa)
     
     v_index <- 1
     
@@ -210,7 +190,7 @@ create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs
         
       } else if(lab != "V" && interval == length(tg$intervals$label)){
         #ultim interval
-        # último carácter de la cadena IPA
+        # últim caràcter de la cadena IPA
         laultima <- substr(trimws(ipa), nchar(trimws(ipa)), nchar(trimws(ipa)))
         
         if(!(laultima %in% vowels)){
@@ -292,19 +272,16 @@ create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs
   }
   #outfile <- paste0(tools::file_path_sans_ext(myfile), ".TextGrid")
   
-  
-  folder = "T:/AMPER-catala-corpus-Praat/annotacions"
   #treu el segon element d'una cadena de test tipus "ja02tyta.textgrid"
   subfolder <- substr(tools::file_path_sans_ext(myfile), 1, 3)
   
-    outdir <- file.path(folder, subfolder)
+    outdir <- file.path(folder_output, subfolder)
   
   if (!dir.exists(outdir)) {
     dir.create(outdir, recursive = TRUE)
   }
   
   outfile <- file.path(outdir, paste0(tools::file_path_sans_ext(basename(myfile)), ".TextGrid"))
-  
   invisible(tg.write(tg, outfile))
   
   
@@ -314,39 +291,28 @@ create_textgrid_from_mat <- function(myfile, dict = NULL, align_text = FALSE, fs
 
 
 ################## AQUÍ
-####
-# input el cporpus escrit
-# una carpeta o arxiu on hi ha els arxius .mat
-
+##comença el codi per cridar funcions
 #####
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
-corpus_file <- "./corpora/corpus_AMPER_CAT.txt"
+
 align_text <- FALSE
 
 if (file.exists(corpus_file)) {
-  
   sentences <- read.delim(corpus_file, stringsAsFactors = FALSE)
-  
   dict <- setNames(sentences$orthography, sentences$code)
   dictIPA <- setNames(sentences$IPA, sentences$code)
-  
   align_text <- TRUE
   
 } else {
-  
   dict <- NULL
   align_text <- FALSE
-  
 }
 
 
-
-folder <- "T:\\AMPER\\AMPERCAT Arxius ordenats\\Barcelona\\Barcelona català\\Barcelona català dona\\Barcelona català corpus fix PART 2 (Programa nou, actualitzat amb els arxius refets pel Paolo)\\ficherosmat"
-
-folder <- gsub("\\\\", "/", folder)
-  
-  
-setwd(folder)
+setwd(folder_input)
 files <- list.files(pattern = "[^0]\\.mat$")
-lapply(files, create_textgrid_from_mat, dict = dict, align_text = align_text)
+lapply(files, create_textgrid_from_mat, dict = dict, align_text = align_text, folder_output= folder_output)
+
+
+
+
